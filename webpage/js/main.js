@@ -1,25 +1,73 @@
 var yourVlSpec = {
-    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "data": {"url": "https://raw.githubusercontent.com/vega/vega/master/docs/data/cars.json"},
-    "selection": {"brush": {"type": "interval"}},
-    "mark": {"type": "circle", "clip": true},
-    "encoding": {
-      "x": {
-        "field": "Horsepower",
-        "type": "quantitative",
-        "scale": {"domain": [75, 150]}
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Seattle Weather, 2012-2015",
+  "data": {
+    "url": "https://raw.githubusercontent.com/vega/vega/master/docs/data/seattle-weather.csv"
+  },
+  "vconcat": [
+    {
+      "encoding": {
+        "color": {
+          "condition": {
+            "title": "Weather",
+            "field": "weather",
+            "scale": {
+              "domain": ["sun", "fog", "drizzle", "rain", "snow"],
+              "range": ["#e7ba52", "#a7a7a7", "#aec7e8", "#1f77b4", "#9467bd"]
+            },
+            "selection": "brush",
+            "type": "nominal"
+          },
+          "value": "lightgray"
+        },
+        "size": {
+          "title": "Precipitation",
+          "field": "precipitation",
+          "scale": {"domain": [-1, 50]},
+          "type": "quantitative"
+        },
+        "x": {
+          "axis": {"title": "Date", "format": "%b"},
+          "field": "date",
+          "timeUnit": "monthdate",
+          "type": "temporal"
+        },
+        "y": {
+          "axis": {"title": "Maximum Daily Temperature (C)"},
+          "field": "temp_max",
+          "scale": {"domain": [-5, 40]},
+          "type": "quantitative"
+        }
       },
-      "y": {
-        "field": "Miles_per_Gallon",
-        "type": "quantitative",
-        "scale": {"domain": [20, 40]}
+      "width": 600,
+      "height": 300,
+      "mark": "point",
+      "selection": {"brush": {"encodings": ["x"], "type": "interval"}},
+      "transform": [{"filter": {"selection": "click"}}]
+    },
+    {
+      "encoding": {
+        "color": {
+          "condition": {
+            "field": "weather",
+            "scale": {
+              "domain": ["sun", "fog", "drizzle", "rain", "snow"],
+              "range": ["#e7ba52", "#a7a7a7", "#aec7e8", "#1f77b4", "#9467bd"]
+            },
+            "selection": "click",
+            "type": "nominal"
+          },
+          "value": "lightgray"
+        },
+        "x": {"aggregate": "count", "type": "quantitative"},
+        "y": {"title": "Weather", "field": "weather", "type": "nominal"}
       },
-      "size": {"field": "Cylinders", "type": "quantitative"},
-      "color": {
-        "condition": {"selection": "brush", "field": "Origin", "type": "nominal"},
-        "value": "grey"
-      }
+      "width": 600,
+      "mark": "bar",
+      "selection": {"click": {"encodings": ["color"], "type": "multi"}},
+      "transform": [{"filter": {"selection": "brush"}}]
     }
-  };
-  
-  vegaEmbed('#vis', yourVlSpec);
+  ]
+}
+
+vegaEmbed('#vis', yourVlSpec);
