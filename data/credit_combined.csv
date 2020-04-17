@@ -1,4 +1,4 @@
-Account Number,Transaction Date,Transaction Amount,Transaction Description,Category
+account_number,transaction_date,transaction_amount,transaction_description,category
 7157,2019/12/15,830.33,"ONLINE PAYMENT, THANK YOU",Earning
 7157,2019/12/09,25.0,AUTOPAY 190701043711444RAUTOPAY AUTO-PMT,Earning
 7157,2019/12/09,18.41,AMZN MKTP US AMZN.COM/ AMZN.COM/BILL WA ,Earning
