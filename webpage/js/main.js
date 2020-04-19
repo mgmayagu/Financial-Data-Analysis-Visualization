@@ -1,73 +1,110 @@
 var yourVlSpec = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Seattle Weather, 2012-2015",
-  "data": {
-    "url": "https://raw.githubusercontent.com/vega/vega/master/docs/data/seattle-weather.csv"
-  },
+  "data": {"url": "https://raw.githubusercontent.com/mgmayagu/Visualization/master/data/debit_combined.csv"},
+    "transform":[
+    {"filter": "datum.category != 'Earnings'"},
+    {"filter": "datum.category != 'Earning'"},
+    {"filter": "datum.account_number == '7157'"}
+  ],
+  
   "vconcat": [
     {
+      "selection": {
+        "brush": {
+          "encodings": ["x"],
+          "type": "interval"}
+      },
+  
+      "mark": "point",
+      "width": 990,
+      "height": 545,
+  
       "encoding": {
-        "color": {
-          "condition": {
-            "title": "Weather",
-            "field": "weather",
-            "scale": {
-              "domain": ["sun", "fog", "drizzle", "rain", "snow"],
-              "range": ["#e7ba52", "#a7a7a7", "#aec7e8", "#1f77b4", "#9467bd"]
-            },
-            "selection": "brush",
-            "type": "nominal"
-          },
-          "value": "lightgray"
-        },
-        "size": {
-          "title": "Precipitation",
-          "field": "precipitation",
-          "scale": {"domain": [-1, 50]},
-          "type": "quantitative"
-        },
         "x": {
           "axis": {"title": "Date", "format": "%b"},
-          "field": "date",
+          "field": "transaction_date",
           "timeUnit": "monthdate",
-          "type": "temporal"
-        },
+          "type": "temporal"},
+  
         "y": {
-          "axis": {"title": "Maximum Daily Temperature (C)"},
-          "field": "temp_max",
-          "scale": {"domain": [-5, 40]},
-          "type": "quantitative"
-        }
-      },
-      "width": 600,
-      "height": 300,
-      "mark": "point",
-      "selection": {"brush": {"encodings": ["x"], "type": "interval"}},
-      "transform": [{"filter": {"selection": "click"}}]
-    },
-    {
-      "encoding": {
+          "axis": {"title": "Amount ($)"},
+          "field": "transaction_amount",
+          "type": "quantitative"},
+  
         "color": {
           "condition": {
-            "field": "weather",
-            "scale": {
-              "domain": ["sun", "fog", "drizzle", "rain", "snow"],
-              "range": ["#e7ba52", "#a7a7a7", "#aec7e8", "#1f77b4", "#9467bd"]
-            },
-            "selection": "click",
-            "type": "nominal"
+            "field": "account_number",
+            "type": "nominal",
+            "selection": "brush"
           },
           "value": "lightgray"
+        }
+      }
+    },
+  
+    {
+      "selection": {
+        "highlight": {
+          "type": "single",
+          "empty": "none",
+          "on": "mouseover"
         },
-        "x": {"aggregate": "count", "type": "quantitative"},
-        "y": {"title": "Weather", "field": "weather", "type": "nominal"}
+        "select": {"type": "multi"}
       },
-      "width": 600,
-      "mark": "bar",
-      "selection": {"click": {"encodings": ["color"], "type": "multi"}},
-      "transform": [{"filter": {"selection": "brush"}}]
+  
+      "transform": [{"filter": {"selection": "brush"}}],
+  
+      "width": {"step": 100},
+      "width": 990,
+      "mark": {
+        "type": "bar",
+        "cursor": "pointer",
+        "stroke": "black"
+      },
+  
+      "encoding": {
+        "y": {
+          "field": "category",
+          "type": "nominal",
+          "axis": {"title": "Categories"}
+        },
+        "x": {
+          "axis": {"title": "Amount ($)", "grid": true},
+          "aggregate": "sum",
+          "field": "transaction_amount",
+          "type": "quantitative"
+        },
+  
+        "fillOpacity": {
+          "condition": {"selection": "select", "value": 1},
+          "value": 0.3
+        },
+  
+        "strokeWidth": {
+          "condition": [
+            {"test": {"and": [{"selection": "select"},"length(data(\"select_store\"))"]},"value": 2},
+            {"selection": "highlight", "value": 1}
+          ],
+          "value": 0
+        },
+        "color": {
+          "title": "Account",
+          "field": "account_number",
+          "type": "nominal"
+        },
+       
+        "tooltip": {
+          "aggregate": "sum",
+          "field": "transaction_amount",
+          "type": "quantitative"}
+        },
+  
+        "config": {
+          "view": {"stroke": "transparent"},
+          "axis": {"domainWidth": 1}
+        }
     }
   ]
-}
+ } 
 
 vegaEmbed('#vis', yourVlSpec);
