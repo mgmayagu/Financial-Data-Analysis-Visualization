@@ -1,508 +1,508 @@
-﻿Account Number,Transaction Date,Transaction Amount,Transaction Type,Transaction Description,Balance,Category
-8821,12/31/19,0.04,Credit,Monthly Interest Paid,106.13,Interest
-8821,12/31/19,-5,Debit,Withdrawal from Acorns Invest Transfer,106.09,Investment
-8821,12/27/19,-32.06,Debit,Debit Card Purchase - DUANE READE STO 2265 R BROOKLYN  NY US,111.09,Health
-8821,12/25/19,-4.99,Debit,Debit Card Purchase - APPLE COM BILL 866 712 7753 CA,143.15,Entertainment
-8821,12/25/19,-3.96,Debit,Debit Card Purchase - ORDER WISH COM 8002660172 CA,148.14,Shopping
-8821,12/24/19,-5,Debit,Withdrawal from Acorns Invest Transfer,152.1,Investment
-8821,12/21/19,-2.7,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,157.1,Food 
-8821,12/20/19,-40.41,Debit,Debit Card Purchase - CENTURY TWENTY ONE #26 BROOKLYN  NY US,159.8,Shopping
-8821,12/20/19,-39.97,Debit,Debit Card Purchase - NORDSTROM RACK # 505 F BROOKLYN  NY US,200.21,Shopping
-8821,12/19/19,-1.8,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,240.18,Food 
-8821,12/17/19,-22.98,Debit,Withdrawal from PLANET FIT CLUB FEES,241.98,Health
-8821,12/17/19,-5,Debit,Withdrawal from Acorns Invest Transfer,264.96,Investment
-8821,12/16/19,-9.89,Debit,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,269.96,Food 
-8821,12/13/19,-9.8,Debit,Debit Card Purchase - CITY CIBAO 1 MANHATTAN NY,279.85,Food 
-8821,12/12/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,289.65,Food 
-8821,12/12/19,-1.8,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,296.93,Food 
-8821,12/11/19,-1.75,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,298.73,Food 
-8821,12/10/19,-5,Debit,Withdrawal from Acorns Invest Transfer,300.48,Investment
-8821,12/10/19,-7.8,Debit,Debit Card Purchase - HEIGHTS DELI FOOD NEW YORK NY,305.48,Food 
-8821,12/9/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,313.28,Food 
-8821,12/9/19,-1.75,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,320.56,Food 
-8821,12/7/19,-6.24,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,322.31,Food 
-8821,12/7/19,-3.5,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,328.55,Food 
-8821,12/4/19,-5,Debit,Withdrawal from Acorns Invest Transfer,332.05,Investment
-8821,12/4/19,-0.99,Debit,Debit Card Purchase - APPLE COM BILL 866 712 7753 CA,337.05,Entertainment
-8821,12/4/19,-1.98,Debit,Debit Card Purchase - APPLE COM BILL 866 712 7753 CA,338.04,Entertainment
-8821,12/4/19,-48.24,Debit,Debit Card Purchase - SP LAPERLAMX 4078858557 FL,340.02,Shopping
-8821,12/2/19,-1,Debit,Withdrawal from Subscription Acorns,388.26,Investment
-8821,12/2/19,-30.76,Debit,Debit Card Purchase - SQ SQ SHAKE SHAC NEW YORK NY,389.26,Food 
-8821,11/30/19,0.13,Credit,Monthly Interest Paid,420.02,Interest
-8821,11/30/19,-32.32,Debit,Debit Card Purchase - 0055 FOREVER 21 STATEN ISLAND  NY US,419.89,Shopping
-8821,11/30/19,-36.79,Debit,Debit Card Purchase - THE EDGE NEW YORK NY,452.21,Food 
-8821,11/29/19,-19.49,Debit,Debit Card Purchase - CVS/PHARMACY #10 10583 NEW YORK  NY US,489,Health
-8821,11/28/19,-8.1,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,508.49,Food 
-8821,11/26/19,-127,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,516.59,Transportation
-8821,11/26/19,-5,Debit,Withdrawal from Acorns Invest Transfer,643.59,Investment
-8821,11/25/19,7.02,Credit,Check Deposit (Mobile),648.59,Earnings
-8821,11/25/19,-4.99,Debit,Debit Card Purchase - APPLE COM BILL 866 712 7753 CA,641.57,Entertainment
-8821,11/23/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,646.56,Food 
-8821,11/23/19,-3.6,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,653.84,Food 
-8821,11/22/19,-16.28,Debit,Debit Card Purchase - CHEGG ORDER 8558681054 CA,657.44,Education
-8821,11/21/19,-3.5,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,673.72,Food 
-8821,11/20/19,-5,Debit,Withdrawal from Acorns Invest Transfer,677.22,Investment
-8821,11/19/19,-89.99,Debit,Debit Card Purchase - FRG MLBSHOP COM 8886527467 FL,682.22,Shopping
-8821,11/19/19,-26.84,Debit,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,772.21,Food 
-8821,11/18/19,-22.98,Debit,Withdrawal from PLANET FIT CLUB FEES,799.05,Health
-8821,11/15/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,822.03,Food 
-8821,11/15/19,-41.09,Debit,Debit Card Purchase - BATH BODY WORKS COM 8007565005 OH,829.31,Shopping
-8821,11/14/19,-2.8,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,870.4,Food 
-8821,11/14/19,-1.8,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,873.2,Food 
-8821,11/13/19,-5,Debit,Withdrawal from Acorns Invest Transfer,875,Investment
-8821,11/11/19,-11.43,Debit,Debit Card Purchase - STARBUCKS STORE 07890 NEW YORK NY,880,Food 
-8821,11/11/19,-24.82,Debit,Debit Card Purchase - CHIPOTLE 0681 NEW YORK NY,891.43,Food 
-8821,11/9/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,916.25,Food 
-8821,11/9/19,-60.79,Debit,Debit Card Purchase - CUROLOGY 8588591188 CA,923.53,Health
-8821,11/9/19,-1.8,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,984.32,Food 
-8821,11/8/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,986.12,Food 
-8821,11/7/19,-11.22,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,993.4,Food 
-8821,11/6/19,-5,Debit,Withdrawal from Acorns Invest Transfer,1004.62,Investment
-8821,11/6/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,1009.62,Food 
-8821,11/5/19,-0.99,Debit,Debit Card Purchase - APPLE COM BILL 866 712 7753 CA,1016.9,Entertainment
-8821,11/4/19,-1,Debit,Withdrawal from Subscription Acorns,1017.89,Investment
-8821,11/2/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,1018.89,Food 
-8821,10/31/19,0.01,Credit,Monthly Interest Paid,1026.17,Interest
-8821,11/1/19,975.95,Credit,Check Deposit (Mobile),1026.16,Earnings
-8821,10/30/19,-5,Debit,Withdrawal from Acorns Invest Transfer,50.21,Investment
-8821,10/29/19,-6.53,Debit,Debit Card Purchase - FREEPRINTS 8772488906 CA,55.21,Other
-8821,10/28/19,-127,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,61.74,Transportation
-8821,10/28/19,100,Credit,Deposit from 360 Savings XXXXXXX1675,188.74,Earnings
-8821,10/28/19,-5.44,Debit,Debit Card Purchase - SQ SQ SLONG FRESH TE NEW YORK NY,88.74,Food 
-8821,10/26/19,-3.5,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,94.18,Food 
-8821,10/25/19,-1.56,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,97.68,Food 
-8821,10/25/19,-4.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,99.24,Entertainment
-8821,10/23/19,-10.4,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,104.23,Food 
-8821,10/22/19,100,Credit,Deposit from 360 Savings XXXXXXX1675,114.63,Earnings
-8821,10/22/19,-5,Debit,Withdrawal from Acorns Invest Transfer,14.63,Investment
-8821,10/22/19,-16.28,Debit,Debit Card Purchase - CHEGG ORDER 8558681054 CA,19.63,Education
-8821,10/22/19,-9.78,Debit,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,35.91,Food 
-8821,10/21/19,-5.44,Debit,Debit Card Purchase - SQ SQ SLONG FRESH TE NEW YORK NY,45.69,Food 
-8821,10/19/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,51.13,Food 
-8821,10/18/19,-79.99,Debit,Debit Card Purchase - BURLINGTON STORES 235 NEW YORK  NY US,58.41,Shopping
-8821,10/18/19,100,Credit,Deposit from 360 Savings XXXXXXX1675,138.4,Earnings
-8821,10/18/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,38.4,Food 
-8821,10/17/19,-22.98,Debit,Withdrawal from PLANET FIT CLUB FEES,45.68,Health
-8821,10/17/19,-10.88,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,68.66,Entertainment
-8821,10/17/19,-9.74,Debit,Debit Card Purchase - CHIPOTLE 0482 NEW YORK NY,79.54,Food 
-8821,10/17/19,20,Credit,360 Checking Card Adjustment Signature (Credit) WWW BOOHOO COM ONLINE NY,89.28,Earnings
-8821,10/16/19,-5,Debit,Withdrawal from Acorns Invest Transfer,69.28,Investment
-8821,10/14/19,-43.74,Debit,Debit Card Purchase - WALMART COM 8009666546 AR,74.28,Food 
-8821,10/14/19,-17.07,Debit,Debit Card Purchase - SQ SQ SHAKE SHAC NEW YORK NY,118.02,Food 
-8821,10/13/19,19.47,Credit,Deposit from 360 Savings XXXXXXX1675,135.09,Earnings
-8821,10/12/19,-9.36,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,115.62,Food 
-8821,10/12/19,-4.3,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,124.98,Food 
-8821,10/10/19,100,Credit,Deposit from 360 Savings XXXXXXX1675,129.28,Earnings
-8821,10/10/19,-35.34,Debit,Debit Card Purchase - CASH APP KIMBERLY M 4153753176 CA,29.28,Other
-8821,10/10/19,-30,Debit,Debit Card Purchase - CASH APP BIBIAN GAR 4153753176 CA,64.62,Other
-8821,10/9/19,-5,Debit,Withdrawal from Acorns Invest Transfer,94.62,Investment
-8821,10/9/19,-1.75,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,99.62,Food 
-8821,10/8/19,71.1,Credit,Deposit from MERCARI INC. 100719PMT1,101.37,Earnings
-8821,10/8/19,-35.86,Debit,Debit Card Purchase - MACYS COM 800 289 6229 OH,30.27,Shopping
-8821,10/7/19,-12.41,Debit,Debit Card Purchase - CHIPOTLE 0681 NEW YORK NY,66.13,Food 
-8821,10/5/19,-1.8,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,78.54,Food 
-8821,10/4/19,-9.36,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,80.34,Food 
-8821,10/4/19,-0.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,89.7,Entertainment
-8821,10/2/19,-1,Debit,Withdrawal from Subscription Acorns,90.69,Investment
-8821,10/1/19,-5,Debit,Withdrawal from Acorns Invest Transfer,91.69,Investment
-8821,9/30/19,0.03,Credit,Monthly Interest Paid,96.69,Interest
-8821,10/1/19,-168.31,Debit,Debit Card Purchase - STUBHUB INC 8667882482 CA,96.66,Entertainment
-8821,10/1/19,-42.53,Debit,Debit Card Purchase - EYEBUYDIRECT INC 512 241 0654 TX,264.97,Health
-8821,9/30/19,-14.8,Debit,Debit Card Purchase - BREAD AND HONEY NEW YORK NY,307.5,Food 
-8821,9/28/19,-2.3,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,322.3,Food 
-8821,9/27/19,-26.13,Debit,Debit Card Purchase - RILEY ROSE 5133 NEW YORK  NY US,324.6,Shopping
-8821,9/27/19,-14.99,Debit,Debit Card Purchase - H&M0279 NEW YORK  NY US,350.73,Shopping
-8821,9/27/19,-8.1,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,365.72,Food 
-8821,9/27/19,-10.89,Debit,Debit Card Purchase - SQ SQ SLONG FRESH TE NEW YORK NY,373.82,Food 
-8821,9/26/19,-127,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,384.71,Transportation
-8821,9/26/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,511.71,Food 
-8821,9/25/19,-5,Debit,Withdrawal from Acorns Invest Transfer,518.99,Investment
-8821,9/25/19,-10.88,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,523.99,Health
-8821,9/25/19,-4.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,534.87,Entertainment
-8821,9/25/19,-1.3,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,539.86,Food 
-8821,9/24/19,330,Credit,Deposit from Square Inc * Cash App,541.16,Earnings
-8821,9/24/19,-28.48,Debit,Debit Card Purchase - 0552 AMC EMPIRE 25 NEW YORK NY,211.16,Entertainment
-8821,9/23/19,-9.78,Debit,Debit Card Purchase - SQ SQ SHAKE SHAC NEW YORK NY,239.64,Food 
-8821,9/23/19,-16.28,Debit,Debit Card Purchase - CHEGG ORDER 8558681054 CA,249.42,Education
-8821,9/22/19,200,Credit,Deposit from 360 Savings XXXXXXX1675,265.7,Earnings
-8821,9/21/19,-4.8,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,65.7,Food 
-8821,9/20/19,-2.25,Debit,Debit Card Purchase - USA TECH VEN USA CANTE NEW YORK NY,70.5,Food 
-8821,9/20/19,-10.89,Debit,Debit Card Purchase - SQ SQ SLONG FRESH TE NEW YORK NY,72.75,Food 
-8821,9/18/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,83.64,Food 
-8821,9/18/19,-18.07,Debit,Debit Card Purchase - ORDER WISH COM 8002660172 CA,90.92,Shopping
-8821,9/17/19,83,Credit,Deposit from 360 Savings XXXXXXX1675,108.99,Earnings
-8821,9/17/19,-22.98,Debit,Withdrawal from PLANET FIT CLUB FEES,25.99,Health
-8821,9/17/19,-5,Debit,Withdrawal from Acorns Invest Transfer,48.97,Investment
-8821,9/17/19,-33.53,Debit,Debit Card Purchase - TURCO MEDITERRANEAN NEW YORK NY,53.97,Food 
-8821,9/16/19,-97.71,Debit,Debit Card Purchase - URBAN OUTFITTERS 1333 NEW YORK  NY US,87.5,Shopping
-8821,9/16/19,100,Credit,Deposit from 360 Savings XXXXXXX1675,185.21,Earnings
-8821,9/14/19,-6.24,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,85.21,Food 
-8821,9/12/19,-16,Debit,Debit Card Purchase - CHIPOTLE 3309 BROOKLYN NY,91.45,Food 
-8821,9/11/19,-2.6,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,107.45,Food 
-8821,9/10/19,-24.79,Debit,Debit Card Purchase - HARMONSTORE#806 245 AT BROOKLYN  NY US,110.05,Shopping
-8821,9/10/19,100,Credit,Deposit from 360 Savings XXXXXXX1675,134.84,Earnings
-8821,9/10/19,-5,Debit,Withdrawal from Acorns Invest Transfer,34.84,Investment
-8821,9/10/19,-39.39,Debit,Debit Card Purchase - WWW BOOHOO COM ONLINE NY,39.84,Shopping
-8821,9/10/19,-60.79,Debit,Debit Card Purchase - CUROLOGY 8588591188 CA,79.23,Health
-8821,9/10/19,-9.78,Debit,Debit Card Purchase - SHAKE SHACK 1107 646 747 7200 NY,140.02,Food 
-8821,9/7/19,103,Credit,Deposit from 360 Savings XXXXXXX1675,149.8,Earnings
-8821,9/7/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,46.8,Food 
-8821,9/7/19,-8.41,Debit,Debit Card Purchase - CHEGG ORDER 8558681054 CA,54.08,Education
-8821,9/6/19,-6.24,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,62.49,Food 
-8821,9/5/19,-5,Debit,Withdrawal from Acorns Invest Transfer,68.73,Investment
-8821,9/5/19,-0.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,73.73,Entertainment
-8821,9/5/19,-17.99,Debit,Debit Card Purchase - DUNKIN 349768 Q35 BROOKLYN NY,74.72,Food 
-8821,9/4/19,-49.79,Debit,Debit Card Purchase - WWW BOOHOO COM ONLINE NY,92.71,Shopping
-8821,9/4/19,-11.98,Debit,Debit Card Purchase - SCHNIPPERS QUALITY KIT NEW YORK NY,142.5,Food 
-8821,9/3/19,-1,Debit,Withdrawal from Subscription Acorns,154.48,Investment
-8821,9/2/19,-11.7,Debit,Debit Card Purchase - SQ SQ SLONG FRESH TE NEW YORK NY,155.48,Food 
-8821,8/31/19,0.02,Credit,Monthly Interest Paid,167.18,Interest
-8821,8/31/19,-17.33,Debit,Debit Card Purchase - FOREVER 21 INC 888 494 3837 CA,167.16,Shopping
-8821,8/31/19,-10.14,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,184.49,Food 
-8821,8/30/19,-35.25,Debit,Debit Card Purchase - FOREVER 21 INC 888 494 3837 CA,194.63,Shopping
-8821,8/30/19,-6.41,Debit,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,229.88,Food 
-8821,8/27/19,-127,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,236.29,Transportation
-8821,8/26/19,-40.06,Debit,Debit Card Purchase - GARAGE 416 90-15 QUEEN ELMHURST  NY US,363.29,Shopping
-8821,8/26/19,350.71,Credit,Deposit from 360 Savings XXXXXXX1675,403.35,Earnings
-8821,8/26/19,-25.83,Debit,Debit Card Purchase - VENMO 8558124430 NY,52.64,Other
-8821,8/24/19,-10.32,Debit,Debit Card Purchase - IKEA BROOKLYN BROOKLYN  NY US,78.47,Shopping
-8821,8/24/19,-10.88,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,88.79,Entertainment
-8821,8/24/19,-4.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,99.67,Entertainment
-8821,8/24/19,-32.98,Debit,Debit Card Purchase - 0552 AMC EMPIRE 25 NEW YORK NY,104.66,Entertainment
-8821,8/23/19,-64.7,Debit,Debit Card Purchase - UNIQLO NY 34TH ST 32 NEW YORK NY,137.64,Shopping
-8821,8/22/19,-5.5,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,202.34,Transportation
-8821,8/22/19,20.1,Credit,Check Deposit (Mobile),207.84,Earnings
-8821,8/22/19,-49.02,Debit,Debit Card Purchase - WALMART COM 8009666546 AR,187.74,Food 
-8821,8/21/19,-21.37,Debit,Debit Card Purchase - VICTORIA'S SECRET #135 NEW YORK  NY US,236.76,Shopping
-8821,8/19/19,200,Credit,Deposit from 360 Savings XXXXXXX1675,258.13,Earnings
-8821,8/19/19,-22.98,Debit,Withdrawal from PLANET FIT CLUB FEES,58.13,Health
-8821,8/19/19,-44.85,Debit,Debit Card Purchase - WCS E COMMERCE 718 220 5100 NY,81.11,Shopping
-8821,8/16/19,-27.44,Debit,Debit Card Purchase - CHIPOTLE 2123 NEW YORK NY,125.96,Food 
-8821,8/13/19,150,Credit,Deposit from 360 Savings XXXXXXX1675,153.4,Earnings
-8821,8/11/19,-20.5,Debit,Debit Card Purchase - PETCO 3774 BROOKLYN  NY US,3.4,Shopping
-8821,8/10/19,-22.69,Debit,Debit Card Purchase - DEALS 590 HAMILTON BROOKLYN  NY US,23.9,Shopping
-8821,8/10/19,-21.76,Debit,Debit Card Purchase - LOT LESS 10 NEW YORK  NY US,46.59,Shopping
-8821,8/10/19,33,Credit,Deposit from 360 Savings XXXXXXX1675,68.35,Earnings
-8821,8/10/19,-37.46,Debit,Debit Card Purchase - LOT LESS 10 NEW YORK  NY US,35.35,Shopping
-8821,8/10/19,-20,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,72.81,Transportation
-8821,8/8/19,-34,Debit,Debit Card Purchase - UA BATTERY PARK 16 NEW YORK NY,92.81,Entertainment
-8821,8/6/19,109.8,Credit,Deposit from MERCARI INC. 080519PMT1,126.81,Earnings
-8821,8/6/19,-29,Debit,Debit Card Purchase - MERCARI SAN FRANCISC CA,17.01,Shopping
-8821,8/6/19,-44.63,Debit,Debit Card Purchase - AMZN MKTP US MA1BQ6QE2 AMZN COM BIL WA,46.01,Shopping
-8821,8/5/19,-5,Debit,Withdrawal from Acorns Invest Tr Transfer,90.64,Investment
-8821,8/5/19,-0.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,95.64,Entertainment
-8821,8/3/19,70,Credit,Deposit from 360 Savings XXXXXXX1675,96.63,Earnings
-8821,8/2/19,-1,Debit,Withdrawal from Subscription Acorns,26.63,Investment
-8821,8/1/19,-40.76,Debit,Withdrawal from PLANET FIT CLUB FEES,27.63,Health
-8821,7/31/19,0.04,Credit,Monthly Interest Paid,68.39,Interest
-8821,7/31/19,-18.51,Debit,Debit Card Purchase - BREAD FACTORY CAFE 57 NEW YORK NY,68.35,Food 
-8821,7/31/19,-5.72,Debit,Debit Card Purchase - STARBUCKS STORE 10279 NEW YORK NY,86.86,Food 
-8821,7/30/19,-65.31,Debit,Debit Card Purchase - DUANE READE STO 386 FU BROOKLYN  NY US,92.58,Health
-8821,7/30/19,-48.03,Debit,Debit Card Purchase - MARSHALLS 241 ATLANTIC BROOKLYN  NY US,157.89,Shopping
-8821,7/30/19,-46.17,Debit,Debit Card Purchase - PRIMARK STATEN ISLAND STATEN ISLAN NY,205.92,Shopping
-8821,7/29/19,-5,Debit,Withdrawal from Acorns Investing Transfer,252.09,Investment
-8821,7/27/19,200,Credit,Deposit from 360 Savings XXXXXXX1675,257.09,Earnings
-8821,7/27/19,-17.07,Debit,Debit Card Purchase - SHAKE SHACK 1107 646 747 7200 NY,57.09,Food 
-8821,7/26/19,-11.86,Debit,Debit Card Purchase - G & A PRODUCE CORP BROOKLYN  NY US,74.16,Food 
-8821,7/26/19,-29.59,Debit,Debit Card Purchase - TARGET T- 445 GOLD ST BROOKLYN  NY US,86.02,Health
-8821,7/26/19,-34,Debit,Debit Card Purchase - UA BATTERY PARK 16 NEW YORK NY,115.61,Entertainment
-8821,7/24/19,-10.88,Debit,Debit Card Purchase - CENTURY TWENTY ONE #10 NEW YORK  NY US,149.61,Shopping
-8821,7/24/19,-4.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,160.49,Entertainment
-8821,7/23/19,-79.45,Debit,Debit Card Purchase - MARSHALLS 241 ATLANTIC BROOKLYN  NY US,165.48,Shopping
-8821,7/23/19,-16.28,Debit,Debit Card Purchase - CHEGG ORDER 8558681054 CA,244.93,Education
-8821,7/22/19,-7.25,Debit,Debit Card Purchase - NJT PLAUDERVILLE 0461 GARFIELD  NJ US,261.21,Transportation
-8821,7/22/19,-5,Debit,Withdrawal from Acorns Investing Transfer,268.46,Investment
-8821,7/22/19,-10,Debit,Debit Card Purchase - PLANNED PARENTHOOD FED NEW YORK NY,273.46,Other
-8821,7/20/19,-5.49,Debit,Debit Card Purchase - CVS/PHARMACY #02 02280 RIDGEWOOD  NY US,283.46,Health
-8821,7/19/19,-99,Debit,Debit Card Purchase - SMILEDIRECTCLUB 8008487566 TN,288.95,Health
-8821,7/18/19,200,Credit,Deposit from 360 Savings XXXXXXX1675,387.95,Earnings
-8821,7/18/19,-29.35,Debit,Debit Card Purchase - TARGET T- 139 FLATBUSH BROOKLYN  NY US,187.95,Health
-8821,7/18/19,-20.7,Debit,Debit Card Purchase - SQ SQ OSO NEW YORK NY,217.3,Food 
-8821,7/18/19,-4,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,238,Food 
-8821,7/17/19,-22.98,Debit,Withdrawal from PLANET FIT CLUB FEES,242,Health
-8821,7/17/19,-5.06,Debit,Withdrawal from Acorns Investing Transfer,264.98,Investment
-8821,7/16/19,-9.35,Debit,Debit Card Purchase - SHAKE SHACK 1122 646 747 7200 NY,270.04,Food 
-8821,7/16/19,-22.59,Debit,Debit Card Purchase - SHAKE SHACK 1122 646 747 7200 NY,279.39,Food 
-8821,7/16/19,-10.88,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,301.98,Entertainment
-8821,7/15/19,-19.13,Debit,Debit Card Purchase - HARMONSTORE#806 245 AT BROOKLYN  NY US,312.86,Shopping
-8821,7/15/19,-5,Debit,Withdrawal from Acorns Investing Transfer,331.99,Investment
-8821,7/15/19,200,Credit,Deposit from 360 Savings XXXXXXX1675,336.99,Earnings
-8821,7/15/19,-21.76,Debit,Debit Card Purchase - PLAYA BOWLS MANHATTAN NY,136.99,Food 
-8821,7/14/19,-25.01,Debit,Debit Card Purchase - MICHAELS STORES 1276 2 BROOKLYN  NY US,158.75,Shopping
-8821,7/14/19,-13.12,Debit,Debit Card Purchase - FLYING TIGER COPENHAGE BROOKLYN  NY US,183.76,Shopping
-8821,7/12/19,-12.51,Debit,Debit Card Purchase - MARSHALLS 241 ATLANTIC BROOKLYN  NY US,196.88,Shopping
-8821,7/12/19,-12.83,Debit,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,209.39,Food 
-8821,7/11/19,-24,Debit,Debit Card Purchase - FORMULA E EVENT 03333213107,222.22,Entertainment
-8821,7/9/19,41.4,Credit,Deposit from MERCARI INC. 070819PMT1,246.22,Earnings
-8821,7/9/19,-59.9,Debit,Debit Card Purchase - CUROLOGY 8588591188 CA,204.82,Health
-8821,7/8/19,-5,Debit,Withdrawal from Acorns Investing Transfer,264.72,Investment
-8821,7/8/19,-48.58,Debit,Debit Card Purchase - FOREVER 21 INC 888 494 3837 CA,269.72,Shopping
-8821,7/6/19,153.98,Credit,Deposit from 360 Savings XXXXXXX1675,318.3,Earnings
-8821,7/6/19,-0.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,164.32,Entertainment
-8821,7/5/19,-7.25,Debit,Debit Card Purchase - NJT NY PENN STA 0110 NEW YORK  NJ US,165.31,Transportation
-8821,7/5/19,-6.17,Debit,Withdrawal from Acorns Investing Transfer,172.56,Investment
-8821,7/4/19,-1.75,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,178.73,Food 
-8821,7/3/19,-56.34,Debit,Debit Card Purchase - FOREVER 21 INC 888 494 3837 CA,180.48,Shopping
-8821,7/2/19,-127,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,236.82,Transportation
-8821,7/2/19,-10.56,Debit,Debit Card Purchase - STARBUCKS STORE 19890 NEW YORK NY,363.82,Food 
-8821,7/1/19,-5,Debit,Withdrawal from Acorns Investing Transfer,374.38,Investment
-8821,7/1/19,-1,Debit,Withdrawal from Subscription Acorns,379.38,Investment
-8821,6/30/19,0.06,Credit,Monthly Interest Paid,380.38,Interest
-8821,7/1/19,-10.34,Debit,Debit Card Purchase - STARBUCKS STORE 19890 NEW YORK NY,380.32,Food 
-8821,6/30/19,37.55,Credit,Debit Card Money Received - WL03000OB1405103301V1801C via VENMO*VAZQUEZ-SANCHEZ,390.66,Earnings
-8821,6/29/19,-50.23,Debit,Debit Card Purchase - WAL-MART SUPER CENTER KEARNY  NJ US,353.11,Food 
-8821,6/29/19,9.9,Credit,Debit Card Money Received - WL03000OB1405103301V1801C via PAYPAL*VXZQUEZ-SXNCHEZ,403.34,Earnings
-8821,6/29/19,-4.13,Debit,Debit Card Purchase - CHEGG ORDER 8558681054 CA,393.44,Education
-8821,6/29/19,6.99,Credit,360 Checking Card Adjustment Signature (Credit) TARGET COM 800 591 3869 MN,397.57,Earnings
-8821,6/29/19,7.99,Credit,360 Checking Card Adjustment Signature (Credit) TARGET COM 800 591 3869 MN,390.58,Earnings
-8821,6/28/19,-14.98,Debit,Debit Card Purchase - TARGET COM 800 591 3869 MN,382.59,Health
-8821,6/27/19,-3.91,Debit,Debit Card Purchase - DUANE READE STO 250 W NEW YORK  NY US,397.57,Health
-8821,6/27/19,-7.28,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,401.48,Food 
-8821,6/27/19,-3.25,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,408.76,Food 
-8821,6/26/19,-1250,Debit,Withdrawal to 360 Savings XXXXXXX1675,412.01,Investment
-8821,6/26/19,-44.99,Debit,Debit Card Purchase - RITE AID STORE - 3883 BROOKLYN  NY US,1662.01,Health
-8821,6/26/19,1250,Credit,ATM Cash Deposit - CAPITAL ONE A24F BROOKLYN  NY,1707,Earnings
-8821,6/25/19,-7.19,Debit,Withdrawal from Acorns Investing Transfer,457,Investment
-8821,6/25/19,-4.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,464.19,Entertainment
-8821,6/24/19,-5,Debit,Withdrawal from Acorns Investing Transfer,469.18,Investment
-8821,6/24/19,-12.83,Debit,Debit Card Purchase - SHAKE SHACK 1107 646 747 7200 NY,474.18,Food 
-8821,6/20/19,-12.41,Debit,Debit Card Purchase - CHIPOTLE 0482 NEW YORK NY,487.01,Food 
-8821,6/20/19,-13,Debit,Debit Card Purchase - MERCARI SAN FRANCISC CA,499.42,Earnings
-8821,6/19/19,-64.52,Debit,Debit Card Purchase - MARSHALLS 241 ATLANTIC BROOKLYN  NY US,512.42,Shopping
-8821,6/19/19,500,Credit,Deposit from 360 Savings XXXXXXX1675,576.94,Earnings
-8821,6/18/19,-80,Debit,Debit Card Purchase - TOP SHOP NEW YORK NEW YORK NY,76.94,Shopping
-8821,6/17/19,-22.98,Debit,Withdrawal from PLANET FIT CLUB FEES,156.94,Health
-8821,6/17/19,-5,Debit,Withdrawal from Acorns Investing Transfer,179.92,Investment
-8821,6/17/19,-12.83,Debit,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,184.92,Food 
-8821,6/16/19,-38.97,Debit,Debit Card Purchase - BURLINGTON STORES 457 BROOKLYN  NY US,197.75,Shopping
-8821,6/15/19,-97.15,Debit,Debit Card Purchase - URBAN-OUTFITTERS 628 B NEW YORK  NY US,236.72,Shopping
-8821,6/15/19,-3.5,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,333.87,Food 
-8821,6/13/19,-3.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,337.37,Food 
-8821,6/13/19,-40.55,Debit,Debit Card Purchase - BATH BODY WORKS COM 8007565005 OH,340.62,Shopping
-8821,6/13/19,-109.75,Debit,Debit Card Purchase - CANTINA ROOFTOP NEW YORK NY,381.17,Food 
-8821,6/12/19,-8.75,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,490.92,Food 
-8821,6/11/19,-5.93,Debit,Withdrawal from Acorns Investing Transfer,499.67,Investment
-8821,6/11/19,-5.83,Debit,Withdrawal from Acorns Investing Transfer,505.6,Investment
-8821,6/11/19,-5.62,Debit,Withdrawal from Acorns Investing Transfer,511.43,Investment
-8821,6/11/19,-5.6,Debit,Withdrawal from Acorns Investing Transfer,517.05,Investment
-8821,6/11/19,-5.54,Debit,Withdrawal from Acorns Investing Transfer,522.65,Investment
-8821,6/11/19,-5.44,Debit,Withdrawal from Acorns Investing Transfer,528.19,Investment
-8821,6/11/19,-5.22,Debit,Withdrawal from Acorns Investing Transfer,533.63,Investment
-8821,6/11/19,-5.05,Debit,Withdrawal from Acorns Investing Transfer,538.85,Investment
-8821,6/11/19,-73.95,Debit,Debit Card Purchase - SQC CASH APP ALEXAN 4153753176 CA,543.9,Shopping
-8821,6/10/19,-5,Debit,Withdrawal from Acorns Investing Transfer,617.85,Investment
-8821,6/10/19,-14.9,Debit,Debit Card Purchase - UNIQLO NY 34TH ST 32 NEW YORK NY,622.85,Shopping
-8821,6/8/19,540,Credit,Deposit from 360 Savings XXXXXXX1675,637.75,Earnings
-8821,6/8/19,-7.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,97.75,Food 
-8821,6/7/19,-16.06,Debit,Debit Card Purchase - SQ SQ VIVI BUBBLE TE BROOKLYN NY,105,Food 
-8821,6/7/19,6,Credit,360 Checking Card Adjustment Signature (Credit) ORDER WISH COM 8002660172 CA,121.06,Earnings
-8821,6/7/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,115.06,Food 
-8821,6/6/19,-17.03,Debit,Debit Card Purchase - DUANE READE STO 320 W NEW YORK  NY US,121.31,Health
-8821,6/6/19,-63.15,Debit,Debit Card Purchase - ZYBOOK COLLEGE TXTBOOK 14086349926 CA,138.34,Education
-8821,6/5/19,-47.96,Debit,Debit Card Purchase - TELCO STORES #1 BROOKLYN  NY US,201.49,Shopping
-8821,6/5/19,-0.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,249.45,Entertainment
-8821,6/4/19,-1,Debit,Withdrawal from Subscription Acorns,250.44,Investment
-8821,6/3/19,-17.97,Debit,Debit Card Purchase - H&M0150 BROOKLYN  NY US,251.44,Shopping
-8821,6/3/19,-8.5,Debit,Debit Card Purchase - 0620 FOREVER 21 BROOKLYN  NY US,269.41,Shopping
-8821,6/3/19,-25.94,Debit,Debit Card Purchase - NORDSTROM RACK # 505 F BROOKLYN  NY US,277.91,Shopping
-8821,6/3/19,-46.92,Debit,Debit Card Purchase - AMERICAN EAGLE OUTFITT BROOKLYN  NY US,303.85,Shopping
-8821,6/3/19,-127,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,350.77,Transportation
-8821,6/3/19,-6.72,Debit,Withdrawal from Acorns Investing Transfer,477.77,Investment
-8821,6/3/19,-5,Debit,Withdrawal from Acorns Investing Transfer,484.49,Investment
-8821,6/2/19,-78.39,Debit,Debit Card Purchase - SEPHORA 398 45 E 17TH NEW YORK  NY US,489.49,Shopping
-8821,5/31/19,0.08,Credit,Monthly Interest Paid,567.88,Interest
-8821,5/31/19,-9.78,Debit,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,567.8,Food 
-8821,5/31/19,-32.98,Debit,Debit Card Purchase - 0552 AMC EMPIRE 25 NEW YORK NY,577.58,Entertainment
-8821,5/30/19,500,Credit,Deposit from 360 Savings XXXXXXX1675,610.56,Earnings
-8821,5/30/19,-9.6,Debit,Withdrawal from Acorns Investing Transfer,110.56,Investment
-8821,5/28/19,-5.5,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,120.16,Transportation
-8821,5/28/19,-5,Debit,Withdrawal from Acorns Investing Transfer,125.66,Investment
-8821,5/28/19,-66.53,Debit,Debit Card Purchase - MARSHALLS 2485 RICHMON STATEN ISLAND  NY,130.66,Shopping
-8821,5/24/19,-4.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,197.19,Entertainment
-8821,5/23/19,-14.92,Debit,Debit Card Purchase - CHIPOTLE 1435 NEW YORK NY,202.18,Food 
-8821,5/23/19,-4.2,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,217.1,Food 
-8821,5/22/19,-52.53,Debit,Debit Card Purchase - WALMART COM 8009666546 AR,221.3,Health
-8821,5/22/19,-16.28,Debit,Debit Card Purchase - CHEGG ORDER 8558681054 CA,273.83,Education
-8821,5/20/19,-33,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,290.11,Transportation
-8821,5/20/19,-5,Debit,Withdrawal from Acorns Investing Transfer,323.11,Investment
-8821,5/20/19,-29.49,Debit,Debit Card Purchase - MUDDY BODY LLC 305 627 3648 FL,328.11,Health
-8821,5/17/19,-22.98,Debit,Withdrawal from PLANET FIT CLUB FEES,357.6,Health
-8821,5/17/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,380.58,Food 
-8821,5/16/19,-7.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,386.83,Food 
-8821,5/16/19,-1.75,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,394.08,Food 
-8821,5/15/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,395.83,Food 
-8821,5/14/19,-975.95,Debit,Withdrawal from CUNY CTY CTY ePAY,402.08,Education
-8821,5/13/19,-33,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,1378.03,Transportation
-8821,5/13/19,-5,Debit,Withdrawal from Acorns Investing Transfer,1411.03,Investment
-8821,5/13/19,-4.33,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,1416.03,Entertainment
-8821,5/13/19,-9.78,Debit,Debit Card Purchase - SHAKE SHACK 1107 646 747 7200 NY,1420.36,Food 
-8821,5/11/19,-44.96,Debit,Debit Card Purchase - TELCO STORES #1 BROOKLYN  NY US,1430.14,Shopping
-8821,5/11/19,-1.25,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,1475.1,Food 
-8821,5/10/19,975.95,Credit,Deposit from 360 Savings XXXXXXX1675,1476.35,Earnings
-8821,5/10/19,-10.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,500.4,Food 
-8821,5/9/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,510.65,Food 
-8821,5/8/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,516.9,Food 
-8821,5/8/19,-59.9,Debit,Debit Card Purchase - CUROLOGY 8588591188 CA,523.15,Health
-8821,5/7/19,-12.69,Debit,Debit Card Purchase - GRUBHUBASEAFUSION 8775851085 NY,583.05,Food 
-8821,5/7/19,-37.95,Debit,Debit Card Purchase - SP KYLIE COSMETICS 8189922000 CA,595.74,Shopping
-8821,5/6/19,-33,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,633.69,Transportation
-8821,5/6/19,-5,Debit,Withdrawal from Acorns Investing Transfer,666.69,Investment
-8821,5/6/19,-0.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,671.69,Entertainment
-8821,5/4/19,500,Credit,Deposit from 360 Savings XXXXXXX1675,672.68,Earnings
-8821,5/4/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,172.68,Food 
-8821,5/3/19,19.75,Credit,Debit Card Money Received - WL03057OB1405103301V1801C via VENMO*VAZQUEZ-SANCHEZ,178.93,Earnings
-8821,5/3/19,-7.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,159.18,Food 
-8821,5/2/19,-1,Debit,Withdrawal from Subscription Acorns,166.43,Investment
-8821,5/2/19,-7.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,167.43,Food 
-8821,5/2/19,-1.75,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,174.68,Food 
-8821,4/30/19,0.05,Credit,Monthly Interest Paid,176.43,Interest
-8821,5/1/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,176.38,Food 
-8821,5/1/19,-13.8,Debit,Debit Card Purchase - ORDER WISH COM 8002660172 CA,182.63,Shopping
-8821,4/30/19,-19.25,Debit,Debit Card Purchase - BEYOND DEPTH 14693157859 TX,196.43,Shopping
-8821,4/29/19,-33,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,215.68,Transportation
-8821,4/29/19,-5,Debit,Withdrawal from Acorns Investing Transfer,248.68,Investment
-8821,4/26/19,-74.94,Debit,Debit Card Purchase - NIKE WOODBURY 059 CENTRAL VALL NY,253.68,Shopping
-8821,4/25/19,-17,Debit,Debit Card Purchase - NY INTERNATIONAL AUTO 7187465900 NY,328.62,Entertainment
-8821,4/25/19,-4.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,345.62,Entertainment
-8821,4/25/19,-24.82,Debit,Debit Card Purchase - CHIPOTLE 0482 NEW YORK NY,350.61,Food 
-8821,4/24/19,-63.92,Debit,Debit Card Purchase - AEROPOSTALE #739 CENTRAL VLY  NY US,375.43,Shopping
-8821,4/23/19,-16.28,Debit,Debit Card Purchase - CHEGG ORDER 8558681054 CA,439.35,Education
-8821,4/23/19,-16.78,Debit,Debit Card Purchase - 0552 AMC EMPIRE 25 NEW YORK NY,455.63,Entertainment
-8821,4/22/19,-5,Debit,Withdrawal from Acorns Investing Transfer,472.41,Investment
-8821,4/21/19,-46.86,Debit,Debit Card Purchase - WM SUPERC WAL-MART SUP KEARNY  NJ US,477.41,Food 
-8821,4/21/19,-11.21,Debit,Debit Card Purchase - WM SUPERC WAL-MART SUP KEARNY  NJ US,524.27,Food 
-8821,4/20/19,500,Credit,Deposit from 360 Savings XXXXXXX1675,535.48,Earnings
-8821,4/20/19,-6.75,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,35.48,Food 
-8821,4/20/19,-12.6,Debit,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,42.23,Food 
-8821,4/19/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,54.83,Transportation
-8821,4/18/19,-8.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,86.83,Food 
-8821,4/18/19,-47.62,Debit,Debit Card Purchase - WALMART COM 8009666546 AR,95.08,Health
-8821,4/17/19,-25.98,Debit,Debit Card Purchase - H&M0600 NEW YORK  NY US,142.7,Shopping
-8821,4/17/19,-22.98,Debit,Withdrawal from PLANET FIT CLUB FEES,168.68,Health
-8821,4/15/19,-7.19,Debit,Withdrawal from Acorns Investing Transfer,191.66,Investment
-8821,4/15/19,-5,Debit,Withdrawal from Acorns Investing Transfer,198.85,Investment
-8821,4/15/19,-12.96,Debit,Debit Card Purchase - CHIPOTLE 1435 NEW YORK NY,203.85,Food 
-8821,4/13/19,-7.75,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,216.81,Food 
-8821,4/12/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,224.56,Transportation
-8821,4/12/19,-8.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,256.56,Food 
-8821,4/10/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,264.81,Food 
-8821,4/9/19,-29.22,Debit,Debit Card Purchase - BATH BODY WORKS COM 8007565005 OH,271.06,Shopping
-8821,4/9/19,-5.84,Debit,Debit Card Purchase - CUROLOGY 8588591188 CA,300.28,Health
-8821,4/8/19,-5,Debit,Withdrawal from Acorns Investing Transfer,306.12,Investment
-8821,4/8/19,-2.5,Debit,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,311.12,Food 
-8821,4/6/19,-3.26,Debit,Debit Card Purchase - VENGO MINI VENDING MAC BEDFORD NY,313.62,Food 
-8821,4/5/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,316.88,Transportation
-8821,4/5/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,348.88,Food 
-8821,4/5/19,-0.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,355.13,Entertainment
-8821,4/4/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,356.12,Food 
-8821,4/4/19,-30.47,Debit,Debit Card Purchase - BATH BODY WORKS COM 8007565005 OH,362.37,Shopping
-8821,4/3/19,-23.68,Debit,Debit Card Purchase - CVS/PHARM 10298--3 COL MANHATTAN  NY US,392.84,Health
-8821,4/3/19,-8.14,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,416.52,Food 
-8821,4/2/19,-60.77,Debit,Debit Card Purchase - ULTA COM 8669838582 IL,424.66,Shopping
-8821,4/1/19,-5,Debit,Withdrawal from Acorns Investing Transfer,485.43,Investment
-8821,3/31/19,0.06,Credit,Monthly Interest Paid,490.43,Interest
-8821,3/30/19,435,Credit,Deposit from 360 Savings XXXXXXX1675,490.37,Earnings
-8821,3/30/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,55.37,Food 
-8821,3/29/19,-12.99,Debit,Debit Card Purchase - MARSHALLS 206 WASHINGT NEW YORK  NY US,61.62,Shopping
-8821,3/29/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,74.61,Transportation
-8821,3/29/19,-7.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,106.61,Food 
-8821,3/28/19,-5.9,Debit,Withdrawal from Acorns Investing Transfer,113.86,Investment
-8821,3/27/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,119.76,Food 
-8821,3/26/19,-4.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,126.01,Entertainment
-8821,3/26/19,-12.56,Debit,Debit Card Purchase - SHAKE SHACK 1134 646 747 7200 NY,131,Food 
-8821,3/25/19,-5,Debit,Withdrawal from Acorns Investing Transfer,143.56,Investment
-8821,3/23/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,148.56,Food 
-8821,3/22/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,154.81,Transportation
-8821,3/22/19,-7.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,186.81,Food 
-8821,3/22/19,-16.28,Debit,Debit Card Purchase - CHEGG ORDER 8558681054 CA,194.06,Education
-8821,3/22/19,-9.74,Debit,Debit Card Purchase - CHIPOTLE 0482 NEW YORK NY,210.34,Food 
-8821,3/19/19,-5.02,Debit,Withdrawal from Acorns Investing Transfer,220.08,Investment
-8821,3/19/19,-25.84,Debit,Debit Card Purchase - PRIMARK STATEN ISLAND STATEN ISLAN NY,225.1,Shopping
-8821,3/18/19,-22.98,Debit,Withdrawal from PLANET FIT CLUB FEES,250.94,Health
-8821,3/18/19,-5,Debit,Withdrawal from Acorns Investing Transfer,273.92,Investment
-8821,3/18/19,-8.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,278.92,Food 
-8821,3/18/19,-8.71,Debit,Debit Card Purchase - SQUARE SQ SS TEA CAF NEW YORK NY,287.17,Food 
-8821,3/16/19,-33,Debit,Debit Card Purchase - HOLLISTER #539 2655 RI STATEN ISLAND  NY,295.88,Shopping
-8821,3/16/19,-4.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,328.88,Food 
-8821,3/15/19,-7.98,Debit,Debit Card Purchase - WALGREENS STORE 1471 B NEW YORK  NY US,333.13,Health
-8821,3/15/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,341.11,Transportation
-8821,3/15/19,-4.75,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,373.11,Food 
-8821,3/15/19,-24,Debit,Debit Card Purchase - HI AMY NAILS SALON BROOKLYN NY,377.86,Other
-8821,3/15/19,-7.75,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,401.86,Food 
-8821,3/14/19,-5.76,Debit,Withdrawal from Acorns Investing Transfer,409.61,Investment
-8821,3/13/19,-5,Debit,Withdrawal from Acorns Investing Transfer,415.37,Investment
-8821,3/13/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,420.37,Food 
-8821,3/12/19,-29.04,Debit,Debit Card Purchase - THE EDGE NEW YORK NY,426.62,Food 
-8821,3/9/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,455.66,Food 
-8821,3/8/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,461.91,Transportation
-8821,3/8/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,493.91,Food 
-8821,3/5/19,-0.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,500.16,Entertainment
-8821,3/4/19,-15.46,Debit,Debit Card Purchase - CHIPOTLE 0482 NEW YORK NY,501.15,Food 
-8821,3/1/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,516.61,Transportation
-8821,2/28/19,0.13,Credit,Monthly Interest Paid,548.61,Interest
-8821,3/1/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,548.48,Food 
-8821,2/28/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,554.73,Food 
-8821,2/28/19,-1700,Debit,Debit Card Purchase - SMILEDIRECTCLUB 8008487566 TN,560.98,Health
-8821,2/27/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,2260.98,Food 
-8821,2/27/19,-18.46,Debit,Debit Card Purchase - AMZN MKTP US MI1WE98R0 AMZN COM BIL WA,2267.23,Shopping
-8821,2/26/19,-19.6,Debit,Debit Card Purchase - SEPHORA 368 10 COLUMBU NEW YORK  NY US,2285.69,Shopping
-8821,2/26/19,-4.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,2305.29,Entertainment
-8821,2/26/19,-22.6,Debit,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,2310.28,Food 
-8821,2/25/19,-5.41,Debit,Debit Card Purchase - UBER TRIP 8005928996 CA,2332.88,Transportation
-8821,2/23/19,2000,Credit,Deposit from 360 Savings XXXXXXX1675,2338.29,Earnings
-8821,2/22/19,-10.89,Debit,Debit Card Purchase - URBAN OUTFITTERS 1333 NEW YORK  NY US,338.29,Shopping
-8821,2/22/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,349.18,Transportation
-8821,2/22/19,-16.28,Debit,Debit Card Purchase - CHEGG ORDER 8558681054 CA,381.18,Education
-8821,2/21/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,397.46,Food 
-8821,2/20/19,-44.95,Debit,Debit Card Purchase - SQC ALEXANDRA VAZQU 4153753176 CA,403.71,Food 
-8821,2/19/19,-22.98,Debit,Withdrawal from PLANET FIT CLUB FEES,448.66,Health
-8821,2/18/19,-7.61,Debit,Debit Card Purchase - REGAL E WALK 13 NEW YORK NY,471.64,Entertainment
-8821,2/18/19,-29.83,Debit,Debit Card Purchase - CHIPOTLE 0681 NEW YORK NY,479.25,Food 
-8821,2/16/19,-7.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,509.08,Food 
-8821,2/16/19,-29,Debit,Debit Card Purchase - PARIS BAGUETTE 8TH AVE NEW YORK NY,516.33,Food 
-8821,2/15/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,545.33,Transportation
-8821,2/15/19,-45.55,Debit,Debit Card Purchase - POSIES NEW YORK NY,577.33,Other
-8821,2/11/19,-31.72,Debit,Debit Card Purchase - FUMO NEW YORK NY,622.88,Food 
-8821,2/8/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,654.6,Transportation
-8821,2/5/19,-0.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 800 275 2273 CA,686.6,Entertainment
-8821,2/5/19,-4.63,Debit,Debit Card Purchase - PARIS BAGUETTE 7TH A NEW YORK NY,687.59,Food 
-8821,2/4/19,-98.92,Debit,Debit Card Purchase - STK MIDTOWN NEW YORK NY,692.22,Food 
-8821,2/4/19,-5.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,791.14,Food 
-8821,2/2/19,65.34,Credit,Debit Card Money Received - OB1405101801C3301V via VENMO*VAZQUEZ-SANCHEZ,796.39,Earnings
-8821,2/2/19,-7.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,731.05,Food 
-8821,2/1/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,738.3,Transportation
-8821,1/31/19,0.05,Credit,Monthly Interest Paid,770.3,Interest
-8821,2/1/19,-6.25,Debit,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,770.25,Food 
-8821,1/30/19,65.7,Credit,Deposit from MERCARI INC FBO 012919PMT,776.5,Earnings
-8821,1/30/19,-9.74,Debit,Debit Card Purchase - CHIPOTLE 0482 NEW YORK NY,710.8,Food 
-8821,1/28/19,-24.1,Debit,Debit Card Purchase - SHAKE SHACK 1172 STATEN ISLAN NY,720.54,Food 
-8821,1/26/19,-32,Debit,Debit Card Purchase - PRIMARK STATEN ISLAND STATEN ISLAN NY,744.64,Shopping
-8821,1/25/19,-72.18,Debit,Debit Card Purchase - URBAN OUTFITTERS 1333 NEW YORK  NY US,776.64,Shopping
-8821,1/25/19,682,Credit,Check Deposit (Mobile),848.82,Earnings
-8821,1/25/19,-4.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 800 275 2273 CA,166.82,Entertainment
-8821,1/24/19,-54.97,Debit,Debit Card Purchase - HOLLISTER #539 2655 RI STATEN ISLAND  NY,171.81,Shopping
-8821,1/24/19,-55.53,Debit,Debit Card Purchase - ULTA #1432 STATEN ISLAND  NY US,226.78,Shopping
-8821,1/24/19,200,Credit,Deposit from 360 Savings XXXXXXX1675,282.31,Earnings
-8821,1/22/19,-20,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,82.31,Transportation
-8821,1/18/19,-15.4,Debit,Debit Card Purchase - AMZN MKTP US MB58L5G11 AMZN COM BIL WA,102.31,Shopping
-8821,1/17/19,-22.98,Debit,Withdrawal from PLANET FIT CLUB FEES,117.71,Health
-8821,1/17/19,100,Credit,Deposit from 360 Savings XXXXXXX1675,140.69,Earnings
-8821,1/16/19,-20,Debit,Debit Card Purchase - VENMO 8558124430 NY,40.69,Food 
-8821,1/16/19,-49.77,Debit,Debit Card Purchase - AMZN MKTP US MB77771C1 AMZN COM BIL WA,60.69,Shopping
-8821,1/16/19,-16,Debit,Debit Card Purchase - ORDER WISH COM 8002660172 CA,110.46,Shopping
-8821,1/15/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,126.46,Transportation
-8821,1/15/19,-27,Debit,Debit Card Purchase - FREYATREASURES COM BAD OYENHAUS,158.46,Shopping
-8821,1/14/19,-39.11,Debit,Debit Card Purchase - AMZN MKTP US MB5UR9E40 AMZN COM BIL WA,185.46,Shopping
-8821,1/13/19,156,Credit,Deposit from 360 Savings XXXXXXX1675,224.57,Earnings
-8821,1/12/19,-11.21,Debit,Debit Card Purchase - MUJI SOHO 455 BROADWAY NEW YORK  NY US,68.57,Shopping
-8821,1/12/19,-48.97,Debit,Debit Card Purchase - ZARA USA 3862 NEW YORK  NY US,79.78,Shopping
-8821,1/10/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,128.75,Transportation
-8821,1/9/19,-33.2,Debit,Debit Card Purchase - ASEA FUSION AND YAKITO BROOKLYN NY,160.75,Food 
-8821,1/7/19,-16.07,Debit,Debit Card Purchase - RITE AID STORE - 3879 BROOKLYN  NY US,193.95,Health
-8821,1/5/19,-300,Debit,Withdrawal to 360 Savings XXXXXXX1675,210.02,Other
-8821,1/5/19,-15,Debit,Debit Card Purchase - MANDEE BOUTIQUE #6318 BROOKLYN  NY US,510.02,Shopping
-8821,1/5/19,-73.86,Debit,Debit Card Purchase - TELCO STORES #1 BROOKLYN  NY US,525.02,Shopping
-8821,1/5/19,500,Credit,ATM Cash Deposit - CAPITAL ONE E399 BROOKLYN  NY,598.88,Earnings
-8821,1/5/19,-0.99,Debit,Debit Card Purchase - APL ITUNES COM BILL 800 275 2273 CA,98.88,Entertainment
-8821,1/3/19,-4.99,Debit,Debit Card Purchase - TARGET T- 445 GOLD ST BROOKLYN  NY US,99.87,Health
-8821,1/3/19,-32,Debit,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,104.86,Transportation
+﻿Account Number,Transaction Date,Transaction Description,Transaction Type,Transaction Amount,Category,Season
+8821,12/31/19,Monthly Interest Paid,Credit,0.04,Interest,Winter
+8821,12/31/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Winter
+8821,12/27/19,Debit Card Purchase - DUANE READE STO 2265 R BROOKLYN  NY US,Debit,-32.06,Health,Winter
+8821,12/25/19,Debit Card Purchase - APPLE COM BILL 866 712 7753 CA,Debit,-4.99,Entertainment,Winter
+8821,12/25/19,Debit Card Purchase - ORDER WISH COM 8002660172 CA,Debit,-3.96,Shopping,Winter
+8821,12/24/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Winter
+8821,12/21/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-2.7,Food ,Winter
+8821,12/20/19,Debit Card Purchase - CENTURY TWENTY ONE #26 BROOKLYN  NY US,Debit,-40.41,Shopping,Fall
+8821,12/20/19,Debit Card Purchase - NORDSTROM RACK # 505 F BROOKLYN  NY US,Debit,-39.97,Shopping,Fall
+8821,12/19/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.8,Food ,Fall
+8821,12/17/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-22.98,Health,Fall
+8821,12/17/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,12/16/19,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,Debit,-9.89,Food ,Fall
+8821,12/13/19,Debit Card Purchase - CITY CIBAO 1 MANHATTAN NY,Debit,-9.8,Food ,Fall
+8821,12/12/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Fall
+8821,12/12/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.8,Food ,Fall
+8821,12/11/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.75,Food ,Fall
+8821,12/10/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,12/10/19,Debit Card Purchase - HEIGHTS DELI FOOD NEW YORK NY,Debit,-7.8,Food ,Fall
+8821,12/9/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Fall
+8821,12/9/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.75,Food ,Fall
+8821,12/7/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.24,Food ,Fall
+8821,12/7/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-3.5,Food ,Fall
+8821,12/4/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,12/4/19,Debit Card Purchase - APPLE COM BILL 866 712 7753 CA,Debit,-0.99,Entertainment,Fall
+8821,12/4/19,Debit Card Purchase - APPLE COM BILL 866 712 7753 CA,Debit,-1.98,Entertainment,Fall
+8821,12/4/19,Debit Card Purchase - SP LAPERLAMX 4078858557 FL,Debit,-48.24,Shopping,Fall
+8821,12/2/19,Withdrawal from Subscription Acorns,Debit,-1,Investment,Fall
+8821,12/2/19,Debit Card Purchase - SQ SQ SHAKE SHAC NEW YORK NY,Debit,-30.76,Food ,Fall
+8821,11/30/19,Monthly Interest Paid,Credit,0.13,Interest,Fall
+8821,11/30/19,Debit Card Purchase - 0055 FOREVER 21 STATEN ISLAND  NY US,Debit,-32.32,Shopping,Fall
+8821,11/30/19,Debit Card Purchase - THE EDGE NEW YORK NY,Debit,-36.79,Food ,Fall
+8821,11/29/19,Debit Card Purchase - CVS/PHARMACY #10 10583 NEW YORK  NY US,Debit,-19.49,Health,Fall
+8821,11/28/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-8.1,Food ,Fall
+8821,11/26/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-127,Transportation,Fall
+8821,11/26/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,11/25/19,Check Deposit (Mobile),Credit,7.02,Earnings,Fall
+8821,11/25/19,Debit Card Purchase - APPLE COM BILL 866 712 7753 CA,Debit,-4.99,Entertainment,Fall
+8821,11/23/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Fall
+8821,11/23/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-3.6,Food ,Fall
+8821,11/22/19,Debit Card Purchase - CHEGG ORDER 8558681054 CA,Debit,-16.28,Education,Fall
+8821,11/21/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-3.5,Food ,Fall
+8821,11/20/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,11/19/19,Debit Card Purchase - FRG MLBSHOP COM 8886527467 FL,Debit,-89.99,Shopping,Fall
+8821,11/19/19,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,Debit,-26.84,Food ,Fall
+8821,11/18/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-22.98,Health,Fall
+8821,11/15/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Fall
+8821,11/15/19,Debit Card Purchase - BATH BODY WORKS COM 8007565005 OH,Debit,-41.09,Shopping,Fall
+8821,11/14/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-2.8,Food ,Fall
+8821,11/14/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.8,Food ,Fall
+8821,11/13/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,11/11/19,Debit Card Purchase - STARBUCKS STORE 07890 NEW YORK NY,Debit,-11.43,Food ,Fall
+8821,11/11/19,Debit Card Purchase - CHIPOTLE 0681 NEW YORK NY,Debit,-24.82,Food ,Fall
+8821,11/9/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Fall
+8821,11/9/19,Debit Card Purchase - CUROLOGY 8588591188 CA,Debit,-60.79,Health,Fall
+8821,11/9/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.8,Food ,Fall
+8821,11/8/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Fall
+8821,11/7/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-11.22,Food ,Fall
+8821,11/6/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,11/6/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Fall
+8821,11/5/19,Debit Card Purchase - APPLE COM BILL 866 712 7753 CA,Debit,-0.99,Entertainment,Fall
+8821,11/4/19,Withdrawal from Subscription Acorns,Debit,-1,Investment,Fall
+8821,11/2/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Fall
+8821,10/31/19,Monthly Interest Paid,Credit,0.01,Interest,Fall
+8821,11/1/19,Check Deposit (Mobile),Credit,975.95,Earnings,Fall
+8821,10/30/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,10/29/19,Debit Card Purchase - FREEPRINTS 8772488906 CA,Debit,-6.53,Other,Fall
+8821,10/28/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-127,Transportation,Fall
+8821,10/28/19,Deposit from 360 Savings XXXXXXX1675,Credit,100,Earnings,Fall
+8821,10/28/19,Debit Card Purchase - SQ SQ SLONG FRESH TE NEW YORK NY,Debit,-5.44,Food ,Fall
+8821,10/26/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-3.5,Food ,Fall
+8821,10/25/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-1.56,Food ,Fall
+8821,10/25/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-4.99,Entertainment,Fall
+8821,10/23/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-10.4,Food ,Fall
+8821,10/22/19,Deposit from 360 Savings XXXXXXX1675,Credit,100,Earnings,Fall
+8821,10/22/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,10/22/19,Debit Card Purchase - CHEGG ORDER 8558681054 CA,Debit,-16.28,Education,Fall
+8821,10/22/19,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,Debit,-9.78,Food ,Fall
+8821,10/21/19,Debit Card Purchase - SQ SQ SLONG FRESH TE NEW YORK NY,Debit,-5.44,Food ,Fall
+8821,10/19/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Fall
+8821,10/18/19,Debit Card Purchase - BURLINGTON STORES 235 NEW YORK  NY US,Debit,-79.99,Shopping,Fall
+8821,10/18/19,Deposit from 360 Savings XXXXXXX1675,Credit,100,Earnings,Fall
+8821,10/18/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Fall
+8821,10/17/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-22.98,Health,Fall
+8821,10/17/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-10.88,Entertainment,Fall
+8821,10/17/19,Debit Card Purchase - CHIPOTLE 0482 NEW YORK NY,Debit,-9.74,Food ,Fall
+8821,10/17/19,360 Checking Card Adjustment Signature (Credit) WWW BOOHOO COM ONLINE NY,Credit,20,Earnings,Fall
+8821,10/16/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,10/14/19,Debit Card Purchase - WALMART COM 8009666546 AR,Debit,-43.74,Food ,Fall
+8821,10/14/19,Debit Card Purchase - SQ SQ SHAKE SHAC NEW YORK NY,Debit,-17.07,Food ,Fall
+8821,10/13/19,Deposit from 360 Savings XXXXXXX1675,Credit,19.47,Earnings,Fall
+8821,10/12/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-9.36,Food ,Fall
+8821,10/12/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-4.3,Food ,Fall
+8821,10/10/19,Deposit from 360 Savings XXXXXXX1675,Credit,100,Earnings,Fall
+8821,10/10/19,Debit Card Purchase - CASH APP KIMBERLY M 4153753176 CA,Debit,-35.34,Other,Fall
+8821,10/10/19,Debit Card Purchase - CASH APP BIBIAN GAR 4153753176 CA,Debit,-30,Other,Fall
+8821,10/9/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,10/9/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.75,Food ,Fall
+8821,10/8/19,Deposit from MERCARI INC. 100719PMT1,Credit,71.1,Earnings,Fall
+8821,10/8/19,Debit Card Purchase - MACYS COM 800 289 6229 OH,Debit,-35.86,Shopping,Fall
+8821,10/7/19,Debit Card Purchase - CHIPOTLE 0681 NEW YORK NY,Debit,-12.41,Food ,Fall
+8821,10/5/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.8,Food ,Fall
+8821,10/4/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-9.36,Food ,Fall
+8821,10/4/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-0.99,Entertainment,Fall
+8821,10/2/19,Withdrawal from Subscription Acorns,Debit,-1,Investment,Fall
+8821,10/1/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,9/30/19,Monthly Interest Paid,Credit,0.03,Interest,Fall
+8821,10/1/19,Debit Card Purchase - STUBHUB INC 8667882482 CA,Debit,-168.31,Entertainment,Fall
+8821,10/1/19,Debit Card Purchase - EYEBUYDIRECT INC 512 241 0654 TX,Debit,-42.53,Health,Fall
+8821,9/30/19,Debit Card Purchase - BREAD AND HONEY NEW YORK NY,Debit,-14.8,Food ,Fall
+8821,9/28/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-2.3,Food ,Fall
+8821,9/27/19,Debit Card Purchase - RILEY ROSE 5133 NEW YORK  NY US,Debit,-26.13,Shopping,Fall
+8821,9/27/19,Debit Card Purchase - H&M0279 NEW YORK  NY US,Debit,-14.99,Shopping,Fall
+8821,9/27/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-8.1,Food ,Fall
+8821,9/27/19,Debit Card Purchase - SQ SQ SLONG FRESH TE NEW YORK NY,Debit,-10.89,Food ,Fall
+8821,9/26/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-127,Transportation,Fall
+8821,9/26/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Fall
+8821,9/25/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Fall
+8821,9/25/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-10.88,Health,Fall
+8821,9/25/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-4.99,Entertainment,Fall
+8821,9/25/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.3,Food ,Fall
+8821,9/24/19,Deposit from Square Inc * Cash App,Credit,330,Earnings,Fall
+8821,9/24/19,Debit Card Purchase - 0552 AMC EMPIRE 25 NEW YORK NY,Debit,-28.48,Entertainment,Fall
+8821,9/23/19,Debit Card Purchase - SQ SQ SHAKE SHAC NEW YORK NY,Debit,-9.78,Food ,Fall
+8821,9/23/19,Debit Card Purchase - CHEGG ORDER 8558681054 CA,Debit,-16.28,Education,Fall
+8821,9/22/19,Deposit from 360 Savings XXXXXXX1675,Credit,200,Earnings,Summer
+8821,9/21/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-4.8,Food ,Summer
+8821,9/20/19,Debit Card Purchase - USA TECH VEN USA CANTE NEW YORK NY,Debit,-2.25,Food ,Summer
+8821,9/20/19,Debit Card Purchase - SQ SQ SLONG FRESH TE NEW YORK NY,Debit,-10.89,Food ,Summer
+8821,9/18/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Summer
+8821,9/18/19,Debit Card Purchase - ORDER WISH COM 8002660172 CA,Debit,-18.07,Shopping,Summer
+8821,9/17/19,Deposit from 360 Savings XXXXXXX1675,Credit,83,Earnings,Summer
+8821,9/17/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-22.98,Health,Summer
+8821,9/17/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Summer
+8821,9/17/19,Debit Card Purchase - TURCO MEDITERRANEAN NEW YORK NY,Debit,-33.53,Food ,Summer
+8821,9/16/19,Debit Card Purchase - URBAN OUTFITTERS 1333 NEW YORK  NY US,Debit,-97.71,Shopping,Summer
+8821,9/16/19,Deposit from 360 Savings XXXXXXX1675,Credit,100,Earnings,Summer
+8821,9/14/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.24,Food ,Summer
+8821,9/12/19,Debit Card Purchase - CHIPOTLE 3309 BROOKLYN NY,Debit,-16,Food ,Summer
+8821,9/11/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-2.6,Food ,Summer
+8821,9/10/19,Debit Card Purchase - HARMONSTORE#806 245 AT BROOKLYN  NY US,Debit,-24.79,Shopping,Summer
+8821,9/10/19,Deposit from 360 Savings XXXXXXX1675,Credit,100,Earnings,Summer
+8821,9/10/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Summer
+8821,9/10/19,Debit Card Purchase - WWW BOOHOO COM ONLINE NY,Debit,-39.39,Shopping,Summer
+8821,9/10/19,Debit Card Purchase - CUROLOGY 8588591188 CA,Debit,-60.79,Health,Summer
+8821,9/10/19,Debit Card Purchase - SHAKE SHACK 1107 646 747 7200 NY,Debit,-9.78,Food ,Summer
+8821,9/7/19,Deposit from 360 Savings XXXXXXX1675,Credit,103,Earnings,Summer
+8821,9/7/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Summer
+8821,9/7/19,Debit Card Purchase - CHEGG ORDER 8558681054 CA,Debit,-8.41,Education,Summer
+8821,9/6/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.24,Food ,Summer
+8821,9/5/19,Withdrawal from Acorns Invest Transfer,Debit,-5,Investment,Summer
+8821,9/5/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-0.99,Entertainment,Summer
+8821,9/5/19,Debit Card Purchase - DUNKIN 349768 Q35 BROOKLYN NY,Debit,-17.99,Food ,Summer
+8821,9/4/19,Debit Card Purchase - WWW BOOHOO COM ONLINE NY,Debit,-49.79,Shopping,Summer
+8821,9/4/19,Debit Card Purchase - SCHNIPPERS QUALITY KIT NEW YORK NY,Debit,-11.98,Food ,Summer
+8821,9/3/19,Withdrawal from Subscription Acorns,Debit,-1,Investment,Summer
+8821,9/2/19,Debit Card Purchase - SQ SQ SLONG FRESH TE NEW YORK NY,Debit,-11.7,Food ,Summer
+8821,8/31/19,Monthly Interest Paid,Credit,0.02,Interest,Summer
+8821,8/31/19,Debit Card Purchase - FOREVER 21 INC 888 494 3837 CA,Debit,-17.33,Shopping,Summer
+8821,8/31/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-10.14,Food ,Summer
+8821,8/30/19,Debit Card Purchase - FOREVER 21 INC 888 494 3837 CA,Debit,-35.25,Shopping,Summer
+8821,8/30/19,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,Debit,-6.41,Food ,Summer
+8821,8/27/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-127,Transportation,Summer
+8821,8/26/19,Debit Card Purchase - GARAGE 416 90-15 QUEEN ELMHURST  NY US,Debit,-40.06,Shopping,Summer
+8821,8/26/19,Deposit from 360 Savings XXXXXXX1675,Credit,350.71,Earnings,Summer
+8821,8/26/19,Debit Card Purchase - VENMO 8558124430 NY,Debit,-25.83,Other,Summer
+8821,8/24/19,Debit Card Purchase - IKEA BROOKLYN BROOKLYN  NY US,Debit,-10.32,Shopping,Summer
+8821,8/24/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-10.88,Entertainment,Summer
+8821,8/24/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-4.99,Entertainment,Summer
+8821,8/24/19,Debit Card Purchase - 0552 AMC EMPIRE 25 NEW YORK NY,Debit,-32.98,Entertainment,Summer
+8821,8/23/19,Debit Card Purchase - UNIQLO NY 34TH ST 32 NEW YORK NY,Debit,-64.7,Shopping,Summer
+8821,8/22/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-5.5,Transportation,Summer
+8821,8/22/19,Check Deposit (Mobile),Credit,20.1,Earnings,Summer
+8821,8/22/19,Debit Card Purchase - WALMART COM 8009666546 AR,Debit,-49.02,Food ,Summer
+8821,8/21/19,Debit Card Purchase - VICTORIA'S SECRET #135 NEW YORK  NY US,Debit,-21.37,Shopping,Summer
+8821,8/19/19,Deposit from 360 Savings XXXXXXX1675,Credit,200,Earnings,Summer
+8821,8/19/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-22.98,Health,Summer
+8821,8/19/19,Debit Card Purchase - WCS E COMMERCE 718 220 5100 NY,Debit,-44.85,Shopping,Summer
+8821,8/16/19,Debit Card Purchase - CHIPOTLE 2123 NEW YORK NY,Debit,-27.44,Food ,Summer
+8821,8/13/19,Deposit from 360 Savings XXXXXXX1675,Credit,150,Earnings,Summer
+8821,8/11/19,Debit Card Purchase - PETCO 3774 BROOKLYN  NY US,Debit,-20.5,Shopping,Summer
+8821,8/10/19,Debit Card Purchase - DEALS 590 HAMILTON BROOKLYN  NY US,Debit,-22.69,Shopping,Summer
+8821,8/10/19,Debit Card Purchase - LOT LESS 10 NEW YORK  NY US,Debit,-21.76,Shopping,Summer
+8821,8/10/19,Deposit from 360 Savings XXXXXXX1675,Credit,33,Earnings,Summer
+8821,8/10/19,Debit Card Purchase - LOT LESS 10 NEW YORK  NY US,Debit,-37.46,Shopping,Summer
+8821,8/10/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-20,Transportation,Summer
+8821,8/8/19,Debit Card Purchase - UA BATTERY PARK 16 NEW YORK NY,Debit,-34,Entertainment,Summer
+8821,8/6/19,Deposit from MERCARI INC. 080519PMT1,Credit,109.8,Earnings,Summer
+8821,8/6/19,Debit Card Purchase - MERCARI SAN FRANCISC CA,Debit,-29,Shopping,Summer
+8821,8/6/19,Debit Card Purchase - AMZN MKTP US MA1BQ6QE2 AMZN COM BIL WA,Debit,-44.63,Shopping,Summer
+8821,8/5/19,Withdrawal from Acorns Invest Tr Transfer,Debit,-5,Investment,Summer
+8821,8/5/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-0.99,Entertainment,Summer
+8821,8/3/19,Deposit from 360 Savings XXXXXXX1675,Credit,70,Earnings,Summer
+8821,8/2/19,Withdrawal from Subscription Acorns,Debit,-1,Investment,Summer
+8821,8/1/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-40.76,Health,Summer
+8821,7/31/19,Monthly Interest Paid,Credit,0.04,Interest,Summer
+8821,7/31/19,Debit Card Purchase - BREAD FACTORY CAFE 57 NEW YORK NY,Debit,-18.51,Food ,Summer
+8821,7/31/19,Debit Card Purchase - STARBUCKS STORE 10279 NEW YORK NY,Debit,-5.72,Food ,Summer
+8821,7/30/19,Debit Card Purchase - DUANE READE STO 386 FU BROOKLYN  NY US,Debit,-65.31,Health,Summer
+8821,7/30/19,Debit Card Purchase - MARSHALLS 241 ATLANTIC BROOKLYN  NY US,Debit,-48.03,Shopping,Summer
+8821,7/30/19,Debit Card Purchase - PRIMARK STATEN ISLAND STATEN ISLAN NY,Debit,-46.17,Shopping,Summer
+8821,7/29/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Summer
+8821,7/27/19,Deposit from 360 Savings XXXXXXX1675,Credit,200,Earnings,Summer
+8821,7/27/19,Debit Card Purchase - SHAKE SHACK 1107 646 747 7200 NY,Debit,-17.07,Food ,Summer
+8821,7/26/19,Debit Card Purchase - G & A PRODUCE CORP BROOKLYN  NY US,Debit,-11.86,Food ,Summer
+8821,7/26/19,Debit Card Purchase - TARGET T- 445 GOLD ST BROOKLYN  NY US,Debit,-29.59,Health,Summer
+8821,7/26/19,Debit Card Purchase - UA BATTERY PARK 16 NEW YORK NY,Debit,-34,Entertainment,Summer
+8821,7/24/19,Debit Card Purchase - CENTURY TWENTY ONE #10 NEW YORK  NY US,Debit,-10.88,Shopping,Summer
+8821,7/24/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-4.99,Entertainment,Summer
+8821,7/23/19,Debit Card Purchase - MARSHALLS 241 ATLANTIC BROOKLYN  NY US,Debit,-79.45,Shopping,Summer
+8821,7/23/19,Debit Card Purchase - CHEGG ORDER 8558681054 CA,Debit,-16.28,Education,Summer
+8821,7/22/19,Debit Card Purchase - NJT PLAUDERVILLE 0461 GARFIELD  NJ US,Debit,-7.25,Transportation,Summer
+8821,7/22/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Summer
+8821,7/22/19,Debit Card Purchase - PLANNED PARENTHOOD FED NEW YORK NY,Debit,-10,Other,Summer
+8821,7/20/19,Debit Card Purchase - CVS/PHARMACY #02 02280 RIDGEWOOD  NY US,Debit,-5.49,Health,Summer
+8821,7/19/19,Debit Card Purchase - SMILEDIRECTCLUB 8008487566 TN,Debit,-99,Health,Summer
+8821,7/18/19,Deposit from 360 Savings XXXXXXX1675,Credit,200,Earnings,Summer
+8821,7/18/19,Debit Card Purchase - TARGET T- 139 FLATBUSH BROOKLYN  NY US,Debit,-29.35,Health,Summer
+8821,7/18/19,Debit Card Purchase - SQ SQ OSO NEW YORK NY,Debit,-20.7,Food ,Summer
+8821,7/18/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-4,Food ,Summer
+8821,7/17/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-22.98,Health,Summer
+8821,7/17/19,Withdrawal from Acorns Investing Transfer,Debit,-5.06,Investment,Summer
+8821,7/16/19,Debit Card Purchase - SHAKE SHACK 1122 646 747 7200 NY,Debit,-9.35,Food ,Summer
+8821,7/16/19,Debit Card Purchase - SHAKE SHACK 1122 646 747 7200 NY,Debit,-22.59,Food ,Summer
+8821,7/16/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-10.88,Entertainment,Summer
+8821,7/15/19,Debit Card Purchase - HARMONSTORE#806 245 AT BROOKLYN  NY US,Debit,-19.13,Shopping,Summer
+8821,7/15/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Summer
+8821,7/15/19,Deposit from 360 Savings XXXXXXX1675,Credit,200,Earnings,Summer
+8821,7/15/19,Debit Card Purchase - PLAYA BOWLS MANHATTAN NY,Debit,-21.76,Food ,Summer
+8821,7/14/19,Debit Card Purchase - MICHAELS STORES 1276 2 BROOKLYN  NY US,Debit,-25.01,Shopping,Summer
+8821,7/14/19,Debit Card Purchase - FLYING TIGER COPENHAGE BROOKLYN  NY US,Debit,-13.12,Shopping,Summer
+8821,7/12/19,Debit Card Purchase - MARSHALLS 241 ATLANTIC BROOKLYN  NY US,Debit,-12.51,Shopping,Summer
+8821,7/12/19,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,Debit,-12.83,Food ,Summer
+8821,7/11/19,Debit Card Purchase - FORMULA E EVENT 03333213107,Debit,-24,Entertainment,Summer
+8821,7/9/19,Deposit from MERCARI INC. 070819PMT1,Credit,41.4,Earnings,Summer
+8821,7/9/19,Debit Card Purchase - CUROLOGY 8588591188 CA,Debit,-59.9,Health,Summer
+8821,7/8/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Summer
+8821,7/8/19,Debit Card Purchase - FOREVER 21 INC 888 494 3837 CA,Debit,-48.58,Shopping,Summer
+8821,7/6/19,Deposit from 360 Savings XXXXXXX1675,Credit,153.98,Earnings,Summer
+8821,7/6/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-0.99,Entertainment,Summer
+8821,7/5/19,Debit Card Purchase - NJT NY PENN STA 0110 NEW YORK  NJ US,Debit,-7.25,Transportation,Summer
+8821,7/5/19,Withdrawal from Acorns Investing Transfer,Debit,-6.17,Investment,Summer
+8821,7/4/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.75,Food ,Summer
+8821,7/3/19,Debit Card Purchase - FOREVER 21 INC 888 494 3837 CA,Debit,-56.34,Shopping,Summer
+8821,7/2/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-127,Transportation,Summer
+8821,7/2/19,Debit Card Purchase - STARBUCKS STORE 19890 NEW YORK NY,Debit,-10.56,Food ,Summer
+8821,7/1/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Summer
+8821,7/1/19,Withdrawal from Subscription Acorns,Debit,-1,Investment,Summer
+8821,6/30/19,Monthly Interest Paid,Credit,0.06,Interest,Summer
+8821,7/1/19,Debit Card Purchase - STARBUCKS STORE 19890 NEW YORK NY,Debit,-10.34,Food ,Summer
+8821,6/30/19,Debit Card Money Received - WL03000OB1405103301V1801C via VENMO*VAZQUEZ-SANCHEZ,Credit,37.55,Earnings,Summer
+8821,6/29/19,Debit Card Purchase - WAL-MART SUPER CENTER KEARNY  NJ US,Debit,-50.23,Food ,Summer
+8821,6/29/19,Debit Card Money Received - WL03000OB1405103301V1801C via PAYPAL*VXZQUEZ-SXNCHEZ,Credit,9.9,Earnings,Summer
+8821,6/29/19,Debit Card Purchase - CHEGG ORDER 8558681054 CA,Debit,-4.13,Education,Summer
+8821,6/29/19,360 Checking Card Adjustment Signature (Credit) TARGET COM 800 591 3869 MN,Credit,6.99,Earnings,Summer
+8821,6/29/19,360 Checking Card Adjustment Signature (Credit) TARGET COM 800 591 3869 MN,Credit,7.99,Earnings,Summer
+8821,6/28/19,Debit Card Purchase - TARGET COM 800 591 3869 MN,Debit,-14.98,Health,Summer
+8821,6/27/19,Debit Card Purchase - DUANE READE STO 250 W NEW YORK  NY US,Debit,-3.91,Health,Summer
+8821,6/27/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.28,Food ,Summer
+8821,6/27/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-3.25,Food ,Summer
+8821,6/26/19,Withdrawal to 360 Savings XXXXXXX1675,Debit,-1250,Investment,Summer
+8821,6/26/19,Debit Card Purchase - RITE AID STORE - 3883 BROOKLYN  NY US,Debit,-44.99,Health,Summer
+8821,6/26/19,ATM Cash Deposit - CAPITAL ONE A24F BROOKLYN  NY,Credit,1250,Earnings,Summer
+8821,6/25/19,Withdrawal from Acorns Investing Transfer,Debit,-7.19,Investment,Summer
+8821,6/25/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-4.99,Entertainment,Summer
+8821,6/24/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Summer
+8821,6/24/19,Debit Card Purchase - SHAKE SHACK 1107 646 747 7200 NY,Debit,-12.83,Food ,Summer
+8821,6/20/19,Debit Card Purchase - CHIPOTLE 0482 NEW YORK NY,Debit,-12.41,Food ,Spring
+8821,6/20/19,Debit Card Purchase - MERCARI SAN FRANCISC CA,Debit,-13,Earnings,Spring
+8821,6/19/19,Debit Card Purchase - MARSHALLS 241 ATLANTIC BROOKLYN  NY US,Debit,-64.52,Shopping,Spring
+8821,6/19/19,Deposit from 360 Savings XXXXXXX1675,Credit,500,Earnings,Spring
+8821,6/18/19,Debit Card Purchase - TOP SHOP NEW YORK NEW YORK NY,Debit,-80,Shopping,Spring
+8821,6/17/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-22.98,Health,Spring
+8821,6/17/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,6/17/19,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,Debit,-12.83,Food ,Spring
+8821,6/16/19,Debit Card Purchase - BURLINGTON STORES 457 BROOKLYN  NY US,Debit,-38.97,Shopping,Spring
+8821,6/15/19,Debit Card Purchase - URBAN-OUTFITTERS 628 B NEW YORK  NY US,Debit,-97.15,Shopping,Spring
+8821,6/15/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-3.5,Food ,Spring
+8821,6/13/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-3.25,Food ,Spring
+8821,6/13/19,Debit Card Purchase - BATH BODY WORKS COM 8007565005 OH,Debit,-40.55,Shopping,Spring
+8821,6/13/19,Debit Card Purchase - CANTINA ROOFTOP NEW YORK NY,Debit,-109.75,Food ,Spring
+8821,6/12/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-8.75,Food ,Spring
+8821,6/11/19,Withdrawal from Acorns Investing Transfer,Debit,-5.93,Investment,Spring
+8821,6/11/19,Withdrawal from Acorns Investing Transfer,Debit,-5.83,Investment,Spring
+8821,6/11/19,Withdrawal from Acorns Investing Transfer,Debit,-5.62,Investment,Spring
+8821,6/11/19,Withdrawal from Acorns Investing Transfer,Debit,-5.6,Investment,Spring
+8821,6/11/19,Withdrawal from Acorns Investing Transfer,Debit,-5.54,Investment,Spring
+8821,6/11/19,Withdrawal from Acorns Investing Transfer,Debit,-5.44,Investment,Spring
+8821,6/11/19,Withdrawal from Acorns Investing Transfer,Debit,-5.22,Investment,Spring
+8821,6/11/19,Withdrawal from Acorns Investing Transfer,Debit,-5.05,Investment,Spring
+8821,6/11/19,Debit Card Purchase - SQC CASH APP ALEXAN 4153753176 CA,Debit,-73.95,Shopping,Spring
+8821,6/10/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,6/10/19,Debit Card Purchase - UNIQLO NY 34TH ST 32 NEW YORK NY,Debit,-14.9,Shopping,Spring
+8821,6/8/19,Deposit from 360 Savings XXXXXXX1675,Credit,540,Earnings,Spring
+8821,6/8/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.25,Food ,Spring
+8821,6/7/19,Debit Card Purchase - SQ SQ VIVI BUBBLE TE BROOKLYN NY,Debit,-16.06,Food ,Spring
+8821,6/7/19,360 Checking Card Adjustment Signature (Credit) ORDER WISH COM 8002660172 CA,Credit,6,Earnings,Spring
+8821,6/7/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,6/6/19,Debit Card Purchase - DUANE READE STO 320 W NEW YORK  NY US,Debit,-17.03,Health,Spring
+8821,6/6/19,Debit Card Purchase - ZYBOOK COLLEGE TXTBOOK 14086349926 CA,Debit,-63.15,Education,Spring
+8821,6/5/19,Debit Card Purchase - TELCO STORES #1 BROOKLYN  NY US,Debit,-47.96,Shopping,Spring
+8821,6/5/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-0.99,Entertainment,Spring
+8821,6/4/19,Withdrawal from Subscription Acorns,Debit,-1,Investment,Spring
+8821,6/3/19,Debit Card Purchase - H&M0150 BROOKLYN  NY US,Debit,-17.97,Shopping,Spring
+8821,6/3/19,Debit Card Purchase - 0620 FOREVER 21 BROOKLYN  NY US,Debit,-8.5,Shopping,Spring
+8821,6/3/19,Debit Card Purchase - NORDSTROM RACK # 505 F BROOKLYN  NY US,Debit,-25.94,Shopping,Spring
+8821,6/3/19,Debit Card Purchase - AMERICAN EAGLE OUTFITT BROOKLYN  NY US,Debit,-46.92,Shopping,Spring
+8821,6/3/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-127,Transportation,Spring
+8821,6/3/19,Withdrawal from Acorns Investing Transfer,Debit,-6.72,Investment,Spring
+8821,6/3/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,6/2/19,Debit Card Purchase - SEPHORA 398 45 E 17TH NEW YORK  NY US,Debit,-78.39,Shopping,Spring
+8821,5/31/19,Monthly Interest Paid,Credit,0.08,Interest,Spring
+8821,5/31/19,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,Debit,-9.78,Food ,Spring
+8821,5/31/19,Debit Card Purchase - 0552 AMC EMPIRE 25 NEW YORK NY,Debit,-32.98,Entertainment,Spring
+8821,5/30/19,Deposit from 360 Savings XXXXXXX1675,Credit,500,Earnings,Spring
+8821,5/30/19,Withdrawal from Acorns Investing Transfer,Debit,-9.6,Investment,Spring
+8821,5/28/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-5.5,Transportation,Spring
+8821,5/28/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,5/28/19,Debit Card Purchase - MARSHALLS 2485 RICHMON STATEN ISLAND  NY,Debit,-66.53,Shopping,Spring
+8821,5/24/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-4.99,Entertainment,Spring
+8821,5/23/19,Debit Card Purchase - CHIPOTLE 1435 NEW YORK NY,Debit,-14.92,Food ,Spring
+8821,5/23/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-4.2,Food ,Spring
+8821,5/22/19,Debit Card Purchase - WALMART COM 8009666546 AR,Debit,-52.53,Health,Spring
+8821,5/22/19,Debit Card Purchase - CHEGG ORDER 8558681054 CA,Debit,-16.28,Education,Spring
+8821,5/20/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-33,Transportation,Spring
+8821,5/20/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,5/20/19,Debit Card Purchase - MUDDY BODY LLC 305 627 3648 FL,Debit,-29.49,Health,Spring
+8821,5/17/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-22.98,Health,Spring
+8821,5/17/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,5/16/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.25,Food ,Spring
+8821,5/16/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.75,Food ,Spring
+8821,5/15/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,5/14/19,Withdrawal from CUNY CTY CTY ePAY,Debit,-975.95,Education,Spring
+8821,5/13/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-33,Transportation,Spring
+8821,5/13/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,5/13/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-4.33,Entertainment,Spring
+8821,5/13/19,Debit Card Purchase - SHAKE SHACK 1107 646 747 7200 NY,Debit,-9.78,Food ,Spring
+8821,5/11/19,Debit Card Purchase - TELCO STORES #1 BROOKLYN  NY US,Debit,-44.96,Shopping,Spring
+8821,5/11/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.25,Food ,Spring
+8821,5/10/19,Deposit from 360 Savings XXXXXXX1675,Credit,975.95,Earnings,Spring
+8821,5/10/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-10.25,Food ,Spring
+8821,5/9/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,5/8/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,5/8/19,Debit Card Purchase - CUROLOGY 8588591188 CA,Debit,-59.9,Health,Spring
+8821,5/7/19,Debit Card Purchase - GRUBHUBASEAFUSION 8775851085 NY,Debit,-12.69,Food ,Spring
+8821,5/7/19,Debit Card Purchase - SP KYLIE COSMETICS 8189922000 CA,Debit,-37.95,Shopping,Spring
+8821,5/6/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-33,Transportation,Spring
+8821,5/6/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,5/6/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-0.99,Entertainment,Spring
+8821,5/4/19,Deposit from 360 Savings XXXXXXX1675,Credit,500,Earnings,Spring
+8821,5/4/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,5/3/19,Debit Card Money Received - WL03057OB1405103301V1801C via VENMO*VAZQUEZ-SANCHEZ,Credit,19.75,Earnings,Spring
+8821,5/3/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.25,Food ,Spring
+8821,5/2/19,Withdrawal from Subscription Acorns,Debit,-1,Investment,Spring
+8821,5/2/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.25,Food ,Spring
+8821,5/2/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-1.75,Food ,Spring
+8821,4/30/19,Monthly Interest Paid,Credit,0.05,Interest,Spring
+8821,5/1/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,5/1/19,Debit Card Purchase - ORDER WISH COM 8002660172 CA,Debit,-13.8,Shopping,Spring
+8821,4/30/19,Debit Card Purchase - BEYOND DEPTH 14693157859 TX,Debit,-19.25,Shopping,Spring
+8821,4/29/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-33,Transportation,Spring
+8821,4/29/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,4/26/19,Debit Card Purchase - NIKE WOODBURY 059 CENTRAL VALL NY,Debit,-74.94,Shopping,Spring
+8821,4/25/19,Debit Card Purchase - NY INTERNATIONAL AUTO 7187465900 NY,Debit,-17,Entertainment,Spring
+8821,4/25/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-4.99,Entertainment,Spring
+8821,4/25/19,Debit Card Purchase - CHIPOTLE 0482 NEW YORK NY,Debit,-24.82,Food ,Spring
+8821,4/24/19,Debit Card Purchase - AEROPOSTALE #739 CENTRAL VLY  NY US,Debit,-63.92,Shopping,Spring
+8821,4/23/19,Debit Card Purchase - CHEGG ORDER 8558681054 CA,Debit,-16.28,Education,Spring
+8821,4/23/19,Debit Card Purchase - 0552 AMC EMPIRE 25 NEW YORK NY,Debit,-16.78,Entertainment,Spring
+8821,4/22/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,4/21/19,Debit Card Purchase - WM SUPERC WAL-MART SUP KEARNY  NJ US,Debit,-46.86,Food ,Spring
+8821,4/21/19,Debit Card Purchase - WM SUPERC WAL-MART SUP KEARNY  NJ US,Debit,-11.21,Food ,Spring
+8821,4/20/19,Deposit from 360 Savings XXXXXXX1675,Credit,500,Earnings,Spring
+8821,4/20/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.75,Food ,Spring
+8821,4/20/19,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,Debit,-12.6,Food ,Spring
+8821,4/19/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Spring
+8821,4/18/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-8.25,Food ,Spring
+8821,4/18/19,Debit Card Purchase - WALMART COM 8009666546 AR,Debit,-47.62,Health,Spring
+8821,4/17/19,Debit Card Purchase - H&M0600 NEW YORK  NY US,Debit,-25.98,Shopping,Spring
+8821,4/17/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-22.98,Health,Spring
+8821,4/15/19,Withdrawal from Acorns Investing Transfer,Debit,-7.19,Investment,Spring
+8821,4/15/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,4/15/19,Debit Card Purchase - CHIPOTLE 1435 NEW YORK NY,Debit,-12.96,Food ,Spring
+8821,4/13/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.75,Food ,Spring
+8821,4/12/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Spring
+8821,4/12/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-8.25,Food ,Spring
+8821,4/10/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,4/9/19,Debit Card Purchase - BATH BODY WORKS COM 8007565005 OH,Debit,-29.22,Shopping,Spring
+8821,4/9/19,Debit Card Purchase - CUROLOGY 8588591188 CA,Debit,-5.84,Health,Spring
+8821,4/8/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,4/8/19,Debit Card Purchase - CMSVEND CV FARMINGDALE AMITYVILLE NY,Debit,-2.5,Food ,Spring
+8821,4/6/19,Debit Card Purchase - VENGO MINI VENDING MAC BEDFORD NY,Debit,-3.26,Food ,Spring
+8821,4/5/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Spring
+8821,4/5/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,4/5/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-0.99,Entertainment,Spring
+8821,4/4/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,4/4/19,Debit Card Purchase - BATH BODY WORKS COM 8007565005 OH,Debit,-30.47,Shopping,Spring
+8821,4/3/19,Debit Card Purchase - CVS/PHARM 10298--3 COL MANHATTAN  NY US,Debit,-23.68,Health,Spring
+8821,4/3/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-8.14,Food ,Spring
+8821,4/2/19,Debit Card Purchase - ULTA COM 8669838582 IL,Debit,-60.77,Shopping,Spring
+8821,4/1/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,3/31/19,Monthly Interest Paid,Credit,0.06,Interest,Spring
+8821,3/30/19,Deposit from 360 Savings XXXXXXX1675,Credit,435,Earnings,Spring
+8821,3/30/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,3/29/19,Debit Card Purchase - MARSHALLS 206 WASHINGT NEW YORK  NY US,Debit,-12.99,Shopping,Spring
+8821,3/29/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Spring
+8821,3/29/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.25,Food ,Spring
+8821,3/28/19,Withdrawal from Acorns Investing Transfer,Debit,-5.9,Investment,Spring
+8821,3/27/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,3/26/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-4.99,Entertainment,Spring
+8821,3/26/19,Debit Card Purchase - SHAKE SHACK 1134 646 747 7200 NY,Debit,-12.56,Food ,Spring
+8821,3/25/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Spring
+8821,3/23/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Spring
+8821,3/22/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Spring
+8821,3/22/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.25,Food ,Spring
+8821,3/22/19,Debit Card Purchase - CHEGG ORDER 8558681054 CA,Debit,-16.28,Education,Spring
+8821,3/22/19,Debit Card Purchase - CHIPOTLE 0482 NEW YORK NY,Debit,-9.74,Food ,Spring
+8821,3/19/19,Withdrawal from Acorns Investing Transfer,Debit,-5.02,Investment,Winter
+8821,3/19/19,Debit Card Purchase - PRIMARK STATEN ISLAND STATEN ISLAN NY,Debit,-25.84,Shopping,Winter
+8821,3/18/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-22.98,Health,Winter
+8821,3/18/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Winter
+8821,3/18/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-8.25,Food ,Winter
+8821,3/18/19,Debit Card Purchase - SQUARE SQ SS TEA CAF NEW YORK NY,Debit,-8.71,Food ,Winter
+8821,3/16/19,Debit Card Purchase - HOLLISTER #539 2655 RI STATEN ISLAND  NY,Debit,-33,Shopping,Winter
+8821,3/16/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-4.25,Food ,Winter
+8821,3/15/19,Debit Card Purchase - WALGREENS STORE 1471 B NEW YORK  NY US,Debit,-7.98,Health,Winter
+8821,3/15/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Winter
+8821,3/15/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-4.75,Food ,Winter
+8821,3/15/19,Debit Card Purchase - HI AMY NAILS SALON BROOKLYN NY,Debit,-24,Other,Winter
+8821,3/15/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.75,Food ,Winter
+8821,3/14/19,Withdrawal from Acorns Investing Transfer,Debit,-5.76,Investment,Winter
+8821,3/13/19,Withdrawal from Acorns Investing Transfer,Debit,-5,Investment,Winter
+8821,3/13/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Winter
+8821,3/12/19,Debit Card Purchase - THE EDGE NEW YORK NY,Debit,-29.04,Food ,Winter
+8821,3/9/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Winter
+8821,3/8/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Winter
+8821,3/8/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Winter
+8821,3/5/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-0.99,Entertainment,Winter
+8821,3/4/19,Debit Card Purchase - CHIPOTLE 0482 NEW YORK NY,Debit,-15.46,Food ,Winter
+8821,3/1/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Winter
+8821,2/28/19,Monthly Interest Paid,Credit,0.13,Interest,Winter
+8821,3/1/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Winter
+8821,2/28/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Winter
+8821,2/28/19,Debit Card Purchase - SMILEDIRECTCLUB 8008487566 TN,Debit,-1700,Health,Winter
+8821,2/27/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Winter
+8821,2/27/19,Debit Card Purchase - AMZN MKTP US MI1WE98R0 AMZN COM BIL WA,Debit,-18.46,Shopping,Winter
+8821,2/26/19,Debit Card Purchase - SEPHORA 368 10 COLUMBU NEW YORK  NY US,Debit,-19.6,Shopping,Winter
+8821,2/26/19,Debit Card Purchase - APL ITUNES COM BILL 866 712 7753 CA,Debit,-4.99,Entertainment,Winter
+8821,2/26/19,Debit Card Purchase - SHAKE SHACK 1140 646 747 7200 NY,Debit,-22.6,Food ,Winter
+8821,2/25/19,Debit Card Purchase - UBER TRIP 8005928996 CA,Debit,-5.41,Transportation,Winter
+8821,2/23/19,Deposit from 360 Savings XXXXXXX1675,Credit,2000,Earnings,Winter
+8821,2/22/19,Debit Card Purchase - URBAN OUTFITTERS 1333 NEW YORK  NY US,Debit,-10.89,Shopping,Winter
+8821,2/22/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Winter
+8821,2/22/19,Debit Card Purchase - CHEGG ORDER 8558681054 CA,Debit,-16.28,Education,Winter
+8821,2/21/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Winter
+8821,2/20/19,Debit Card Purchase - SQC ALEXANDRA VAZQU 4153753176 CA,Debit,-44.95,Food ,Winter
+8821,2/19/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-22.98,Health,Winter
+8821,2/18/19,Debit Card Purchase - REGAL E WALK 13 NEW YORK NY,Debit,-7.61,Entertainment,Winter
+8821,2/18/19,Debit Card Purchase - CHIPOTLE 0681 NEW YORK NY,Debit,-29.83,Food ,Winter
+8821,2/16/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.25,Food ,Winter
+8821,2/16/19,Debit Card Purchase - PARIS BAGUETTE 8TH AVE NEW YORK NY,Debit,-29,Food ,Winter
+8821,2/15/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Winter
+8821,2/15/19,Debit Card Purchase - POSIES NEW YORK NY,Debit,-45.55,Other,Winter
+8821,2/11/19,Debit Card Purchase - FUMO NEW YORK NY,Debit,-31.72,Food ,Winter
+8821,2/8/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Winter
+8821,2/5/19,Debit Card Purchase - APL ITUNES COM BILL 800 275 2273 CA,Debit,-0.99,Entertainment,Winter
+8821,2/5/19,Debit Card Purchase - PARIS BAGUETTE 7TH A NEW YORK NY,Debit,-4.63,Food ,Winter
+8821,2/4/19,Debit Card Purchase - STK MIDTOWN NEW YORK NY,Debit,-98.92,Food ,Winter
+8821,2/4/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-5.25,Food ,Winter
+8821,2/2/19,Debit Card Money Received - OB1405101801C3301V via VENMO*VAZQUEZ-SANCHEZ,Credit,65.34,Earnings,Winter
+8821,2/2/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-7.25,Food ,Winter
+8821,2/1/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Winter
+8821,1/31/19,Monthly Interest Paid,Credit,0.05,Interest,Winter
+8821,2/1/19,Debit Card Purchase - CAMPUS DELI AND GRILL NEW YORK NY,Debit,-6.25,Food ,Winter
+8821,1/30/19,Deposit from MERCARI INC FBO 012919PMT,Credit,65.7,Earnings,Winter
+8821,1/30/19,Debit Card Purchase - CHIPOTLE 0482 NEW YORK NY,Debit,-9.74,Food ,Winter
+8821,1/28/19,Debit Card Purchase - SHAKE SHACK 1172 STATEN ISLAN NY,Debit,-24.1,Food ,Winter
+8821,1/26/19,Debit Card Purchase - PRIMARK STATEN ISLAND STATEN ISLAN NY,Debit,-32,Shopping,Winter
+8821,1/25/19,Debit Card Purchase - URBAN OUTFITTERS 1333 NEW YORK  NY US,Debit,-72.18,Shopping,Winter
+8821,1/25/19,Check Deposit (Mobile),Credit,682,Earnings,Winter
+8821,1/25/19,Debit Card Purchase - APL ITUNES COM BILL 800 275 2273 CA,Debit,-4.99,Entertainment,Winter
+8821,1/24/19,Debit Card Purchase - HOLLISTER #539 2655 RI STATEN ISLAND  NY,Debit,-54.97,Shopping,Winter
+8821,1/24/19,Debit Card Purchase - ULTA #1432 STATEN ISLAND  NY US,Debit,-55.53,Shopping,Winter
+8821,1/24/19,Deposit from 360 Savings XXXXXXX1675,Credit,200,Earnings,Winter
+8821,1/22/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-20,Transportation,Winter
+8821,1/18/19,Debit Card Purchase - AMZN MKTP US MB58L5G11 AMZN COM BIL WA,Debit,-15.4,Shopping,Winter
+8821,1/17/19,Withdrawal from PLANET FIT CLUB FEES,Debit,-22.98,Health,Winter
+8821,1/17/19,Deposit from 360 Savings XXXXXXX1675,Credit,100,Earnings,Winter
+8821,1/16/19,Debit Card Purchase - VENMO 8558124430 NY,Debit,-20,Food ,Winter
+8821,1/16/19,Debit Card Purchase - AMZN MKTP US MB77771C1 AMZN COM BIL WA,Debit,-49.77,Shopping,Winter
+8821,1/16/19,Debit Card Purchase - ORDER WISH COM 8002660172 CA,Debit,-16,Shopping,Winter
+8821,1/15/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Winter
+8821,1/15/19,Debit Card Purchase - FREYATREASURES COM BAD OYENHAUS,Debit,-27,Shopping,Winter
+8821,1/14/19,Debit Card Purchase - AMZN MKTP US MB5UR9E40 AMZN COM BIL WA,Debit,-39.11,Shopping,Winter
+8821,1/13/19,Deposit from 360 Savings XXXXXXX1675,Credit,156,Earnings,Winter
+8821,1/12/19,Debit Card Purchase - MUJI SOHO 455 BROADWAY NEW YORK  NY US,Debit,-11.21,Shopping,Winter
+8821,1/12/19,Debit Card Purchase - ZARA USA 3862 NEW YORK  NY US,Debit,-48.97,Shopping,Winter
+8821,1/10/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Winter
+8821,1/9/19,Debit Card Purchase - ASEA FUSION AND YAKITO BROOKLYN NY,Debit,-33.2,Food ,Winter
+8821,1/7/19,Debit Card Purchase - RITE AID STORE - 3879 BROOKLYN  NY US,Debit,-16.07,Health,Winter
+8821,1/5/19,Withdrawal to 360 Savings XXXXXXX1675,Debit,-300,Other,Winter
+8821,1/5/19,Debit Card Purchase - MANDEE BOUTIQUE #6318 BROOKLYN  NY US,Debit,-15,Shopping,Winter
+8821,1/5/19,Debit Card Purchase - TELCO STORES #1 BROOKLYN  NY US,Debit,-73.86,Shopping,Winter
+8821,1/5/19,ATM Cash Deposit - CAPITAL ONE E399 BROOKLYN  NY,Credit,500,Earnings,Winter
+8821,1/5/19,Debit Card Purchase - APL ITUNES COM BILL 800 275 2273 CA,Debit,-0.99,Entertainment,Winter
+8821,1/3/19,Debit Card Purchase - TARGET T- 445 GOLD ST BROOKLYN  NY US,Debit,-4.99,Health,Winter
+8821,1/3/19,Debit Card Purchase - MTA*METROCARD MACHINE NEW YORK  NY US,Debit,-32,Transportation,Winter
