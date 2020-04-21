@@ -16,16 +16,32 @@ html {
   font-size: 1em;
   line-height: 1.4;
 }
+body {
+  /* background-color: #8e5e5e; */
+}
+header {
+  height: 200px;
+  width: 100%;
+  background-color: gainsboro;
+  text-align: center;
+}
+.container {
+  text-align: center;
+}
 
-/*
- * Remove text-shadow in selection highlight:
- * https://twitter.com/miketaylr/status/12228805301
- *
- * Vendor-prefixed and regular ::selection selectors cannot be combined:
- * https://stackoverflow.com/a/16982510/7133471
- *
- * Customize the background color to match your design.
- */
+.line_chart {
+  background-color: #999;
+}
+h1 { 
+  font-family: 'Baloo';
+  color: #000
+}
+
+header p {
+  font-size:20px;
+  color: black;
+  text-align: center;
+}
 
 ::-moz-selection {
   background: #b3d4fc;
