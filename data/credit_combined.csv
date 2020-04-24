@@ -14,6 +14,7 @@ account_number,transaction_date,transaction_description,transaction_amount,categ
 7157,2019/10/06,"ONLINE PAYMENT, THANK YOU",595.59,Earning,Fall
 7157,2019/10/01,"ONLINE PAYMENT, THANK YOU",500.0,Earning,Fall
 7157,2019/09/16,"ONLINE PAYMENT, THANK YOU",415.0,Earning,Summer
+7157,2019/09/09,AUTOPAY 190701043711444RAUTOPAY AUTO-PMT,29.0,Earning,Summer
 7157,2019/09/06,"ONLINE PAYMENT, THANK YOU",1000.0,Earning,Summer
 7157,2019/09/06,EZ FESTIVALS LLC 323-908-0607 NY,46.0,Earning,Summer
 7157,2019/09/05,ZARA USA 6464 YONKERS NY,140.45,Shopping,Summer
@@ -24,7 +25,6 @@ account_number,transaction_date,transaction_description,transaction_amount,categ
 7157,2019/07/26,"ONLINE PAYMENT, THANK YOU",2201.63,Earning,Summer
 7157,2019/07/05,SP * NOMATIC.COM       8012432444    UT,199.99,Earning,Summer
 7157,2019/06/29,"ONLINE PAYMENT, THANK YOU ",27.16,Earning,Summer
-7157,2019/06/23,BAMBOLEO NIGHTCLUB     ELIZABETH     NJ,25.0,Earning,Summer
 7157,2019/06/19,"ONLINE PAYMENT, THANK YOU ",27.16,Earning,Spring
 7157,2019/06/18,"ONLINE PAYMENT, THANK YOU",554.24,Earning,Spring
 7157,2019/06/18,Pay with Points Statement Credit,1.6,Earning,Spring
