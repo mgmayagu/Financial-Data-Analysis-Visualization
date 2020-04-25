@@ -1,6 +1,6 @@
 [
     {
-        "Month": "january",
+        "Month": "2019-01-01",
         "Education": 0.0,
         "Entertainment": 127.39999999999999,
         "Food": 618.0699999999999,
@@ -13,7 +13,7 @@
         "account_number": 7157
     },
     {
-        "Month": "february",
+        "Month": "2019-02-01",
         "Education": 0.0,
         "Entertainment": 38.99,
         "Food": 215.24999999999997,
@@ -26,7 +26,7 @@
         "account_number": 7157
     },
     {
-        "Month": "march",
+        "Month": "2019-03-01",
         "Education": 0.0,
         "Entertainment": 119.99,
         "Food": 178.70999999999998,
@@ -39,7 +39,7 @@
         "account_number": 7157
     },
     {
-        "Month": "april",
+        "Month": "2019-04-01",
         "Education": 0.0,
         "Entertainment": 1158.31,
         "Food": 136.44,
@@ -52,7 +52,7 @@
         "account_number": 7157
     },
     {
-        "Month": "may",
+        "Month": "2019-05-01",
         "Education": 0.0,
         "Entertainment": 21.240000000000002,
         "Food": 903.5699999999999,
@@ -65,7 +65,7 @@
         "account_number": 7157
     },
     {
-        "Month": "june",
+        "Month": "2019-06-01",
         "Education": 0.0,
         "Entertainment": 102.25,
         "Food": 397.30999999999995,
@@ -78,7 +78,7 @@
         "account_number": 7157
     },
     {
-        "Month": "july",
+        "Month": "2019-07-01",
         "Education": 0.0,
         "Entertainment": 4.99,
         "Food": 530.12,
@@ -91,7 +91,7 @@
         "account_number": 7157
     },
     {
-        "Month": "august",
+        "Month": "2019-08-01",
         "Education": 2448.26,
         "Entertainment": 269.17,
         "Food": 327.49,
@@ -104,7 +104,7 @@
         "account_number": 7157
     },
     {
-        "Month": "september",
+        "Month": "2019-09-01",
         "Education": 71.85,
         "Entertainment": 831.99,
         "Food": 428.88,
@@ -117,7 +117,7 @@
         "account_number": 7157
     },
     {
-        "Month": "october",
+        "Month": "2019-10-01",
         "Education": 0.0,
         "Entertainment": 375.62000000000006,
         "Food": 328.51,
@@ -130,7 +130,7 @@
         "account_number": 7157
     },
     {
-        "Month": "november",
+        "Month": "2019-11-01",
         "Education": 981.31,
         "Entertainment": 88.27999999999999,
         "Food": 305.9599999999999,
@@ -143,7 +143,7 @@
         "account_number": 7157
     },
     {
-        "Month": "december",
+        "Month": "2019-12-01",
         "Education": 0.0,
         "Entertainment": 4.99,
         "Food": 84.13,
@@ -156,7 +156,7 @@
         "account_number": 7157
     },
     {
-        "Month": "january",
+        "Month": "2019-01-01",
         "Education": 0.0,
         "Entertainment": 5.98,
         "Food": 87.04,
@@ -169,7 +169,7 @@
         "account_number": 8821
     },
     {
-        "Month": "february",
+        "Month": "2019-02-01",
         "Education": 16.28,
         "Entertainment": 13.590000000000002,
         "Food": 306.4,
@@ -182,7 +182,7 @@
         "account_number": 8821
     },
     {
-        "Month": "march",
+        "Month": "2019-03-01",
         "Education": 16.28,
         "Entertainment": 5.98,
         "Food": 158.76000000000002,
@@ -195,7 +195,7 @@
         "account_number": 8821
     },
     {
-        "Month": "april",
+        "Month": "2019-04-01",
         "Education": 16.28,
         "Entertainment": 39.760000000000005,
         "Food": 172.10000000000002,
@@ -208,7 +208,7 @@
         "account_number": 8821
     },
     {
-        "Month": "may",
+        "Month": "2019-05-01",
         "Education": 992.23,
         "Entertainment": 43.29,
         "Food": 125.62,
@@ -221,7 +221,7 @@
         "account_number": 8821
     },
     {
-        "Month": "june",
+        "Month": "2019-06-01",
         "Education": 67.28,
         "Entertainment": 5.98,
         "Food": 253.64000000000001,
@@ -234,7 +234,7 @@
         "account_number": 8821
     },
     {
-        "Month": "july",
+        "Month": "2019-07-01",
         "Education": 16.28,
         "Entertainment": 74.86,
         "Food": 167.04000000000002,
@@ -247,7 +247,7 @@
         "account_number": 8821
     },
     {
-        "Month": "august",
+        "Month": "2019-08-01",
         "Education": 0.0,
         "Entertainment": 83.83999999999999,
         "Food": 93.01,
@@ -260,7 +260,7 @@
         "account_number": 8821
     },
     {
-        "Month": "september",
+        "Month": "2019-09-01",
         "Education": 24.69,
         "Entertainment": 34.46,
         "Food": 203.01,
@@ -273,7 +273,7 @@
         "account_number": 8821
     },
     {
-        "Month": "october",
+        "Month": "2019-10-01",
         "Education": 16.28,
         "Entertainment": 185.17000000000002,
         "Food": 160.21000000000004,
@@ -286,7 +286,7 @@
         "account_number": 8821
     },
     {
-        "Month": "november",
+        "Month": "2019-11-01",
         "Education": 16.28,
         "Entertainment": 5.98,
         "Food": 176.38,
@@ -299,7 +299,7 @@
         "account_number": 8821
     },
     {
-        "Month": "december",
+        "Month": "2019-12-01",
         "Education": 0.0,
         "Entertainment": 7.960000000000001,
         "Food": 92.35000000000001,
