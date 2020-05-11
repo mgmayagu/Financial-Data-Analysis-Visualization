@@ -1,4 +1,4 @@
-account_number,transaction_date,transaction_description,transaction_amount,category,Season
+account_number,transaction_date,transaction_description,transaction_amount,category,season
 7157,2019/12/31,WP CENTER PARKING DPT WHITE PLAINS NY,2.0,Transportation,Winter
 7157,2019/12/31,SQU*SQ *HASTINGS TEA & White Plains NY,4.28,Food,Winter
 7157,2019/12/31,BP#9569005BAJAJ GASQPS WHITE PLAINS NY,47.0,Transportation,Winter
