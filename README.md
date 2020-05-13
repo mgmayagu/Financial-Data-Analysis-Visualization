@@ -1,40 +1,28 @@
 # Financial Data Analysis Visualization
-
 For our final project in our data visualizations course, we decided to analyze our financial data for the years of 2019 and 2020. We were curious about our spending habits throughout the year as college students and wanted to compare the time periods, categories, and seasons we spent the most money in. With Vega and Vega-Lite, we were able to create a series of visualizations to present our desired results. 
+
+All of our visualizations, as well as the analysis of our spending can be found on our website which you can run locally once cloning this repository. See "Getting Started" for more details.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine. See "Deployment" for notes on how to deploy the project on a live system.
 
-## Prerequisites 
+### Installing
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-## Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Clone this repository by running the following command in your terminal:
 
 ```
-Give the example
+git clone https://github.com/mgmayagu/Visualization.git
 ```
+### Deployment
 
-And repeat
+To launch our website, run the following commands in your terminal in the directory in which you cloned this project:
 
 ```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+cd webapp
+open index.html
+``` 
+This will launch our website with your default browser. 
 
 ## Built With
 
