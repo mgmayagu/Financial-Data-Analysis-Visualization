@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Financial Data Analysis Visualization</title>
+		<title>Financial Data Analysis</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -9,104 +9,232 @@
 		<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
 		<script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
 		<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-	</head>
+		<script src="https://cdn.jsdelivr.net/npm/d3@5"></script>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+ 	</head>
 	<body>
 		
 		<!-- Header -->
 		<header id="header">
-			<div class="logo"><a href="#">Financial Data Analysis <br><br> Visualization <br>
-				<span>by MICHAEL MAYAGUARI AND MAYRA VAZQUEZ-SHANCHEZ</span></a></div>
+			<div class="logo"><a href="#header">Financial Data Analysis <br>
+				<span>by MICHAEL MAYAGUARI & MAYRA VAZQUEZ-SANCHEZ</span></a></div>
 		</header>
 
 		<!-- Main -->
 		<section id="main">
-			<div class="inner">
-
-			<!-- One -->
-				<section id="one" class="wrapper style1">
-
-					<div class="image fit flush" width=100% heigth=auto>
-						
-
-					</div>
-					<header class="special">
-						<h2>Abstract</h2>
-						<!-- <p>vehicula urna sed justo bibendum</p> -->
-					</header>
+			<div class="inner" style="margin-bottom: 3%; opacity: .8;">
+				<section id="conclusion" class="wrapper style1">
 					<div class="content">
-						<div id="line_vis" text-ali></div>
-						<p>
-							Abstract: For our final project, we decided to analyze our financial data for the years of 2019 and 2020. 
-							We were curious about our spending habits throughout the year as college students and wanted to compare 
-							the time periods, categories, and seasons we spent the most money in. With Vega-Lite, we were able to 
-							create a series of visualizations to present our desired results. We created a line chart to compare 
-							both of our monthly spendings, as well as a parallel coordinate plot to look at the clusters in our data. 
-							A scatter plot allowed us to look at individual transactions in a selected time period
+						<p style="font-size:20px;color: #2a363b;">
+							Have you ever wondered how much money you spent on a monthly basis? 
+							On a yearly basis? How about on a seasonal basis? And where did all 
+							this money go? These are questions we asked ourselves and attempted 
+							to answer through visualizations we created with Vega/ Vega-lite. 
+							Below you will find visualizations ranging from line charts and parallel 
+							coordinates plots to interactive scatter plots, bar charts, and radial 
+							plots -- all of which display patterns in our spending habits for the 
+							years 2019 - 2020. We wanted to look at a full year’s worth of 
+							transactions (2019), as well as current data (2020). 
 						</p>
-						<div id="parallel_vis"></div>
 					</div>
 				</section>
+				</div>
 
-			<!-- Two -->
+			</div>
+
+			<div class="inner">
+			<!-- Combines Data -->
+				<section id="one" class="wrapper style1">
+					
+					<header >
+						<h2>MONTHLY SPENDING ANALYSIS</h2>
+						<p>
+							The following visualizations show our monthly spending patterns. 
+							You can select the year you want to see through the drop-down menu, as 
+							well as hover over any point on the lines to see the total amount spent 
+							that month. The legend defines which color pertains to which account.
+						</p>
+					</header>
+				
+
+					<div class="container">
+						<div class="row">
+					  	<div class=class="col-lg-8">
+							<div style="text-align: center;" id="line_vis"></div>
+					  	</div>
+					  	<div class="col col-4">
+							<h3>Line Graph</h3>
+							<label for="years">Choose a year:</label>
+						
+							<select id="year" onchange="changeLineGraph(this.id)">
+								<option value="2019">2019</option>
+								<option value="2020">2020</option>
+							</select>
+							<p id="p_line" style="padding-top:4%; text-align: justify;">
+								For both accounts, we can see that our spending increases 
+								towards the middle of the year, then decreases towards the end 
+								of the year. When associating the months in which we have winter, 
+								spring, and summer breaks, we can see an increase in our monthly 
+								spending. This can likely be due to the more time and freedom we as 
+								students have to go out and spend money. This will be later analyzed 
+								when looking at the categories in which we spend the most. 
+							</p>
+					  	</div>
+					  	
+					  <div class="col-6">
+						<div style="text-align: center;" id="parallel_vis_top" ></div>
+					  </div>
+					  <div class="col-6" style="text-align:start;">
+						<div style="text-align: center;" id="parallel_vis_bottom" ></div>
+					  </div>
+					  
+					  <div class="w-100"></div>
+					  <div class="col-5" style="text-align: center; padding-bottom: 3%;">
+						
+						<h3>Parallel Coordinate Graph</h3>
+						<label for="years">Choose a year:</label>
+						<select id="year1" onchange="changeParallelGraph(this.id)">
+							<option value="2019">2019</option>
+							<option value="2020">2020</option>
+						</select>
+					  </div>
+					  <div class="col-7">
+						<p id="p_parallel" style="text-align: justify;">
+							To get a better insight to where our money is going, we plotted our data in the graphs above. These parallel coordinate graphs helps us finds patterns on our spendings based on different categories - Investments, Food, Entertainment, Transportation, Travel, Shopping, Health, Education, and other. For account: 7157,  the deviation of our spendings are very spread out from most of the categories, for example food, shopping and health - this pattern tells us that the spending habits of the use varies per month.  While other months the spendings are clustered at a certain range with few outliers showing a clear pattern on spending. Similarly, for account: 8821, we can clearly identify that this user has a more predictable pattern to her spendings on each category per month with few exceptions. 
+						</p>
+					  </div>
+					</div>
+				  </div>
+				</section>
+			<!-- Individual Data -->
 				<section id="two" class="wrapper style2">
 					<header>
-						<h2>Scatterplot and bar chart</h2>
-						<!-- <p>vehicula urna sed justo bibendum</p> -->
+						<h2>OUR DATA</h2>
+						<p> MICHAEL MAYAGUARI VS MAYRA VAZQUEZ-SHANCHEZ</p>
 					</header>
 					<div class="content">
 						<div class="gallery">
 							<div>
-								<div id="both_vis"></div>
-								<!-- <div class="image fit flush">
-									<a href="images/pic03.jpg"><img src="images/pic03.jpg" alt="" /></a>
+								<div class="image fit flush">
+									<a href="#https://github.com/mgmayagu/Visualization/blob/master/data/MM_2019_Data.csv" target="_blank"><img src="images/mm.jpeg" alt="" /></a>
 								</div>
 							</div>
 							<div>
 								<div class="image fit flush">
-									<a href="images/pic01.jpg"><img src="images/pic01.jpg" alt="" /></a>
+									<a href="https://github.com/mgmayagu/Visualization/blob/master/data/MVS_2019_Data.csv" target="_blank"><img src="images/mvs.JPG" alt="" /></a>
 								</div>
 							</div>
-							<div>
-								<div class="image fit flush">
-									<a href="images/pic04.jpg"><img src="images/pic04.jpg" alt="" /></a>
-								</div>
-							</div>
-							<div>
-								<div class="image fit flush">
-									<a href="images/pic05.jpg"><img src="images/pic05.jpg" alt="" /></a>
-								</div>
-							</div> -->
 						</div>
 					</div>
 				</section>
 
-			<!-- Three -->
+			<!-- Combined data and seasonal -->
 				<section id="three" class="wrapper">
-					<div class="spotlight">
-						<!-- <div class="image flush"><img src="images/pic06.jpg" alt="" /></div> -->
-						<div id="radial_vis" ></div>
-						<div class="inner">
-							<h3>Radial Graph</h3>
-							<!-- <div id="both_vis"></div>
-							<div id="radial_vis"></div> -->
-							<p>Curabitur eget semper ante. Morbi eleifend ultricies est, a blandit diam vehicula vel. Vestibulum porttitor nisi quis viverra hendrerit. Suspendisse vel volutpat nibh, vel elementum lacus. Maecenas commodo pulvinar dui, at cursus metus imperdiet vel.</p>
+					<!-- Both Graphs -->
+
+						<header >
+							<h2>WHAT DO WE SPEND MOST OF OUR MONEY ON?</h2>
+							<p>
+								The following are interactive visualizations. You can select which account 
+								you want to look at, or select “null” to look at both accounts simultaneously. 
+								You can also choose to select an interval on the scatter plot which demonstrates 
+								all the transactions taken place or simply look at the overall year. This will 
+								translate onto the adjacent bar chart, which displays the categories we determined 
+								sums up our spending. There are 9 categories in total - definitions for each 
+								category can be found below. You can also hover over and click on any bar to 
+								see the amount spent on that category, in the selected interval. 
+							</p>
+						</header>
+						<!-- Both Charts -->
+						<div class="row ">
+							<div class="both" id="both_vis" style="margin-top: 2%;"></div>
 						</div>
-					</div>
-					<!-- <div class="spotlight alt">
-						<div class="image flush"><img src="images/pic07.jpg" alt="" /></div>
-						<div  class="inner">
-							<h3>Curabitur Eget</h3>
-							<p>Curabitur eget semper ante. Morbi eleifend ultricies est, a blandit diam vehicula vel. Vestibulum porttitor nisi quis viverra hendrerit. Suspendisse vel volutpat nibh, vel elementum lacus. Maecenas commodo pulvinar dui, at cursus metus imperdiet vel.</p>
+						<div class="row container">
+							<div class="col-4">
+							<h3>Scatter Plot and Bar Charts</h3>
+							<label for="years">Choose a year:</label>
+							<select id="year2" onchange="changeBothGraph(this.id)">
+								<option value="2019">2019</option>
+								<option value="2020">2020</option>
+							</select>
+							</div>
+							<div class="col-8">
+							<p id="p_both" style="padding-bottom: 5%; text-align: justify;">
+								Looking at the entire year of 2019, we can see the outstanding amount spent was by 
+								account 7157 on transportation. Overall, we can see that account 7157 generally spends 
+								more on most categories than account 8821. Account 7157 spent the most on transportation, 
+								with an amount of $4778.56, whereas account 8821 spent the most on shopping with an amount 
+								of $3187.13. From this visualization, we can also see that account 7157 didn’t spend any 
+								money on investments, and account 8821 didn’t spend any money on travel. 
+							</p>
+							</div>
 						</div>
-					</div>
-					<div class="spotlight">
-						<div class="image flush"><img src="images/pic08.jpg" alt="" /></div>
-						<div class="inner">
-							<h3>Morbi Eleifend</h3>
-							<p>Curabitur eget semper ante. Morbi eleifend ultricies est, a blandit diam vehicula vel. Vestibulum porttitor nisi quis viverra hendrerit. Suspendisse vel volutpat nibh, vel elementum lacus. Maecenas commodo pulvinar dui, at cursus metus imperdiet vel.</p>
+
+					<!-- Radial graph -->
+						<header style="background-color: #1e1f23;">
+							<h2 style="color: white;;">SEASONAL SPENDING</h2>
+							<p style="color:aliceblue">
+								The following radial plots are meant to show our spending throughout the seasons. 
+								The first radial plot shows the total spending for each season in 2019 for both accounts. 
+								The other two radial plots are labeled according to which account it is looking at. 
+								The drop-down menu can be used to analyze how much was spent for the selected category 
+								in each season. Like the other visualizations, you can hover over and click on any 
+								section of the radial plot to see the amount spent. 
+							</p>
+						</header>
+						<div class="spotlight alt">
+							<div class="container">
+								<div class="row">
+									<div id="radial_vis" style="width: 100%; padding:3%; text-align:center;"></div>
+								</div>
+								<div class="row">
+								<div class="col-9">
+									<p id="p_radial" style="padding-bottom: 5%; text-align: justify;">
+										When looking at the overall year, we can clearly see that when added together, 
+										both accounts spend the most money in the summer. This is most likely due to the 
+										fact that we have a summer break. There are more activities for us to do, which 
+										leads to more spending. For account 7157, it is also apparent that more money is 
+										spent in the summer. For account 8821, the amount spent for summer, winter, and 
+										spring, are very close. Still, summer wins by a little over $100. For some categories 
+										like travel and investment, there are missing radial plots - this is explained in 
+										the above section (What do we spend most of our money on?). 
+									</p>
+								</div>
+								<div class="col-3" >
+									<label for="years" style="color: aliceblue; ">Choose a year:</label>
+									<select id="year3" onchange="changeRadialGraph(this.id)">
+										<option value="2019">2019</option>
+										<option value="2020">2020</option>
+									</select>
+								</div>
+								</div>
+							</div>
 						</div>
-					</div> -->
 				</section>
+			</div>
+
+			<div class="inner" style="margin-top: 3%; opacity: .8;;">
+				<section id="conclusion" class="wrapper style1">
+					<div class="content">
+						<p style="font-size:20px;color: #2a363b;">
+							Analyzing our financial data was definitely an eye-opening experience. 
+							We live our lives day-by-day spending money on necessities as well as non-necessities, 
+							not really paying attention sometimes to how much we’re really spending. The first time 
+							we rendered our graphs we were astonished at how much we actually spent on certain categories. 
+							High amounts in categories like transportation confirmed that being commuter students can get 
+							expensive on a yearly basis. We also confirmed that most of our spending happens during the 
+							months in which we’re on breaks from school. Initially, we thought about taking into account 
+							our genders to see how that affected our spending. We later determined that we would need a 
+							larger sample of each gender to make more accurate claims. Some of our visualizations did not 
+							go as originally planned. This was due to some limitations in Vega/ Vega-lite (more information 
+							on this is included in our report). 
+							For now, we analyzed our own data. In the future, we plan to allow other users to import their 
+							own CSV files containing their transaction statements so that they too can analyze their spending. 
+						</p>
+					</div>
+				</section>
+				</div>
 
 			</div>
 		</section>
@@ -115,10 +243,7 @@
 		<footer id="footer">
 			<div class="container">
 				<ul class="icons">
-					<!-- <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li> -->
-					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-					<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+					<li><a href="https://github.com/mgmayagu/Visualization target="_blank"" class="icon fa-github"><span class="label">github</span></a></li>
 				</ul>
 			</div>
 			<div class="copyright">
@@ -132,6 +257,9 @@
 		<script src="assets/js/skel.min.js"></script>
 		<script src="assets/js/util.js"></script>
 		<script src="assets/js/main.js"></script>
+		<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 
 	</body>
 </html>
