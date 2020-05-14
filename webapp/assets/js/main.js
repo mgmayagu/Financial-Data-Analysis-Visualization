@@ -1749,7 +1749,7 @@ function changeParallelGraph(id){
 	} else if (id.value == "2020"){
 		vegaEmbed('#parallel_vis_top', parallel_coordinate_graph_mm2020);
 		vegaEmbed('#parallel_vis_bottom', parallel_coordinate_graph_mvs2020);
-		document.getElementById("p_parallel").innerHTML = "";
+		document.getElementById("p_parallel").innerHTML = "With our 2020 data, we tried to identify how Covid-19 affected those spending patterns since the outbreak. By only looking at the rage of deviation, we can conclude that the range of spending has reduced and therefore the cluster is only at a certain range. it is hard to see a clear pattern for both accounts as our spendings per category had reduced. We look forward to analyzing the entire 2020 year data and finding out whether this lifestyle transition had an effect in our spendings for a long term.";
 
 	}
 }
