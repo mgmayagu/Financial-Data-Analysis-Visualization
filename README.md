@@ -29,6 +29,10 @@ This will launch our website with your default browser.
 * [Vega](https://vega.github.io/vega/) - Visualization tool used
 * [Vega-lite](https://vega.github.io/vega-lite/) - Visualization tool used
 
+## WebApp Walkthrough
+
+![](Webapp.gif)
+
 ## Authors
 
 * **Mayra Vazquez-Sanchez** - *Initial work* - [mayravs](https://github.com/mayravs)
